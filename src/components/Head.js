@@ -6,7 +6,7 @@ const Head = () => {
   const dispatch = useDispatch()
 
   return (
-    <div className='grid grid-flow-col p-4 mt-2 shadow-lg ease-in-out'>
+    <div className='grid grid-flow-col p-4 mt-2 shadow-lg ease-in-out sticky top-0 bg-white'>
       {/* first section */}
       <div className='flex col-span-1 items-center'>
         <svg
@@ -47,7 +47,7 @@ const Head = () => {
           className=' rounded-l-full pl-4 w-3/6 border border-gray-300 focus:border-blue-500 duration-300 outline-none'
         />
         <svg
-          className='w-14 hover:bg-slate-100 flex h-11 duration-300 rounded-r-full cursor-pointer p-1 border border-l-0 border-gray-300'
+          className='w-[80px] hover:bg-slate-100 flex h-11 duration-300 rounded-r-full cursor-pointer p-1 border border-l-0 border-gray-300'
           xmlns='http://www.w3.org/2000/svg'
           x='0px'
           y='0px'
