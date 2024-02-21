@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = ``
+const GOOGLE_API_KEY = `mai nahi bataunga`
 
 export const SEARCH_SUGGESTION_URL =
   "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="

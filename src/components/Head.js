@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState, useRef } from "react"
 import { useDispatch } from "react-redux"
 import { toggleMenu } from "../utils/slices/appSlice"
 import { SEARCH_SUGGESTION_URL } from "../utils/constant"
@@ -6,6 +6,19 @@ import { SEARCH_SUGGESTION_URL } from "../utils/constant"
 const Head = () => {
   const [searchQuery, setSearchQuery] = useState("")
   const [searchSuggestions, setSearchSuggestions] = useState([])
+  const [searchBoxFocus, setSearchboxFocus] = useState(false)
+
+  const searchBox = useRef("")
+
+  const handleSetSearchQuery = (e) => {
+    setSearchboxFocus(true)
+    const focus = searchBox.current.addEventListener("blur", () => {
+      console.log("focused")
+      setSearchboxFocus(false)
+    })
+    setSearchQuery(e.target.value)
+    return () => searchBox.current.removeEventListener("blur")
+  }
 
   const dispatch = useDispatch()
 
@@ -71,7 +84,8 @@ const Head = () => {
       {/* second section */}
       <div className='flex justify-center col-span-10'>
         <input
-          onChange={(e) => setSearchQuery(e.target.value)}
+          ref={searchBox}
+          onChange={(e) => handleSetSearchQuery(e)}
           type='text'
           placeholder='Search'
           className=' rounded-l-full pl-4 w-3/6 border border-gray-300 focus:border-blue-500 duration-300 outline-none'
@@ -90,7 +104,7 @@ const Head = () => {
 
         <div
           className={
-            searchSuggestions?.length > 0
+            searchSuggestions?.length > 0 && searchBoxFocus
               ? `search-results fixed mt-12 bg-white w-2/6 border border-gray-300  duration-300 rounded-xl py-2 mr-[7rem] px-2 shadow-lg`
               : `hidden`
           }
