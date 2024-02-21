@@ -12,12 +12,16 @@ const VideoContainer = () => {
   }, [])
 
   const getVideos = async () => {
-    const response = new Promise((resolve, reject) => {
-      return resolve(DATA_FROM_YOUTUBE)
-    })
-    const data = await response
+    try {
+      const response = new Promise((resolve, reject) => {
+        return resolve(DATA_FROM_YOUTUBE)
+      })
+      const data = await response
 
-    setVideos(data?.items)
+      setVideos(data?.items)
+    } catch (error) {
+      console.log(error)
+    }
   }
 
   // const getVideos = async () => {

@@ -1,6 +1,16 @@
-const GOOGLE_API_KEY = `test`
+const GOOGLE_API_KEY = ``
 
-export const YOUTUBE_VIDEO_API = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=${GOOGLE_API_KEY}`
+export const SEARCH_SUGGESTION_URL =
+  "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="
+
+const SEARCH_SUGGESTION_URL_EXAMPLE = `https://api.allorigins.win/get?url=${encodeURIComponent(
+  "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=samsung"
+)}`
+
+// export const YOUTUBE_VIDEO_API = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=${GOOGLE_API_KEY}`
+
+// export const YOUTUBE_VIDEO_API = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=${GOOGLE_API_KEY}`
+//youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=surfing&key=[YOUR_API_KEY]
 
 export const DATA_FROM_YOUTUBE = {
   kind: "youtube#videoListResponse",
