@@ -1,7 +1,8 @@
 import React, { useEffect, useState, useRef } from "react"
-import { useDispatch } from "react-redux"
+import { useDispatch, useSelector } from "react-redux"
 import { toggleMenu } from "../utils/slices/appSlice"
 import { SEARCH_SUGGESTION_URL } from "../utils/constant"
+import { cachedSearchSuggestions } from "../utils/slices/searchSlice"
 
 const Head = () => {
   const [searchQuery, setSearchQuery] = useState("")
@@ -9,18 +10,17 @@ const Head = () => {
   const [searchBoxFocus, setSearchboxFocus] = useState(false)
 
   const searchBox = useRef("")
+  const cachedSearchResult = useSelector((store) => store.search)
+  const dispatch = useDispatch()
 
   const handleSetSearchQuery = (e) => {
     setSearchboxFocus(true)
-    const focus = searchBox.current.addEventListener("blur", () => {
-      console.log("focused")
+    searchBox.current.addEventListener("blur", () => {
       setSearchboxFocus(false)
     })
     setSearchQuery(e.target.value)
     return () => searchBox.current.removeEventListener("blur")
   }
-
-  const dispatch = useDispatch()
 
   const getSearchSuggestion = async () => {
     try {
@@ -31,6 +31,12 @@ const Head = () => {
       )
       const data = await response.json()
       setSearchSuggestions(JSON.parse(data.contents)[1])
+
+      //update cachet
+      let dataToBeCached = {
+        [searchQuery]: searchSuggestions,
+      }
+      dispatch(cachedSearchSuggestions(dataToBeCached))
     } catch (error) {
       console.log(error)
     }
@@ -38,7 +44,12 @@ const Head = () => {
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      getSearchSuggestion()
+      if (searchQuery in cachedSearchResult) {
+        setSearchSuggestions(cachedSearchResult[searchQuery])
+        console.log("data updated from cache")
+      } else {
+        getSearchSuggestion()
+      }
     }, 300)
 
     return () => clearTimeout(timer)

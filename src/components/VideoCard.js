@@ -3,7 +3,6 @@ import React from "react"
 const VideoCard = ({ videoInfo }) => {
   const { snippet, statistics } = videoInfo
   const { channelTitle, thumbnails, title } = snippet
-  // console.log(snippet)
   // console.log(new Date(snippet.publishedAt))
   // console.log(statistics)
 
