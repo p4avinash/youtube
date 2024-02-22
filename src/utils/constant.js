@@ -8560,14 +8560,2693 @@ export const DATA_FROM_YOUTUBE_IN = {
 
 export const COMMENTS_DATA_FROM_YOUTUBE = {
   kind: "youtube#commentThreadListResponse",
-  etag: "CashbaOMcyw2sUsDx7KLkkGFy8w",
+  etag: "LRi9osOJZmSZ5EpZg12yGRIKUC8",
   nextPageToken:
-    "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNKMGdHQUVTQlFpSUlCZ0FFZ1VJaVNBWUFCSUZDSWNnR0FBU0JRaW9JQmdBR0FBaURnb01DSTIwMjY0R0VJRGs5YlFE",
+    "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJZ2dHQUFTQlFpSElCZ0FFZ1VJaVNBWUFCSUZDSjBnR0FFU0JRaW9JQmdBR0FBaURnb01DS09HMjY0R0VJamxyZThD",
   pageInfo: {
-    totalResults: 20,
-    resultsPerPage: 20,
+    totalResults: 100,
+    resultsPerPage: 100,
   },
   items: [
+    {
+      kind: "youtube#commentThread",
+      etag: "jxnlA0V1RC4CNEY1pYlrgKFdfls",
+      id: "UgzTffIYjrcqJwRZABR4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "c8itEKuOe0F8FnrKKtYr3orRV6k",
+          id: "UgzTffIYjrcqJwRZABR4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Texas and California joining forces, yeah thats a good reason for Civil War 2",
+            textOriginal:
+              "Texas and California joining forces, yeah thats a good reason for Civil War 2",
+            authorDisplayName: "@archaon2875",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTkmSqJ86I5ljYqO_6Ej_tvyRKRueCQG0qGNbZVAua_hJqZ3usT9tmx5tJxCDYx=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@archaon2875",
+            authorChannelId: {
+              value: "UCNY0zzzWVbgBh67OTBzURbg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T10:14:13Z",
+            updatedAt: "2024-02-22T10:14:13Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Fvut90FQich_YKpKmxJj4LhIYIs",
+      id: "UgylhbrHg8Hs2hKJSiV4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "vxCeaonH4sNNOuLGmNIJgI0rh28",
+          id: "UgylhbrHg8Hs2hKJSiV4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "I’m no expert, but the most likely scenario to actually happen is martial law, where the Federal government is suspended until a proper census of citizens (not residents) is conducted, electoral college delegates adjusted to the current census results and a new election conducted with a new government where party affiliations are outlawed and each person running for office runs as an independent on their own merit and ideas and not just a party agenda.",
+            textOriginal:
+              "I’m no expert, but the most likely scenario to actually happen is martial law, where the Federal government is suspended until a proper census of citizens (not residents) is conducted, electoral college delegates adjusted to the current census results and a new election conducted with a new government where party affiliations are outlawed and each person running for office runs as an independent on their own merit and ideas and not just a party agenda.",
+            authorDisplayName: "@donaldsingleton5446",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZS-9msa5gPXkBpK7UOfJpe7XL0lAXPNAxfMQBeg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@donaldsingleton5446",
+            authorChannelId: {
+              value: "UCFZaaeOcXnWkqDUu1vh0A0Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T10:07:08Z",
+            updatedAt: "2024-02-22T10:07:08Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "5z09UMeG0QxjpZ5E-IO5m6z303E",
+      id: "UgztVr7U-0rzBXbKM-94AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "CZWmlYHtmiJ2Or9dINMou-7WieA",
+          id: "UgztVr7U-0rzBXbKM-94AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "The current federal government is pushing the US citizens in this direction.",
+            textOriginal:
+              "The current federal government is pushing the US citizens in this direction.",
+            authorDisplayName: "@georgeenke4937",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSL72ihSjO7byzNtzajA7r7Oc7NqmaKZ2sJ1w=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@georgeenke4937",
+            authorChannelId: {
+              value: "UCWe5p6jevNk1vfCB84Zj-XQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T10:05:23Z",
+            updatedAt: "2024-02-22T10:05:23Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "wykMt1vwoBHSOSSP5YUKIn5-zok",
+      id: "Ugz4qvFVL3vn5bE2zSV4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "kqj-DosHrpYs01FrXYugx1RrFsc",
+          id: "Ugz4qvFVL3vn5bE2zSV4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "i can see cali fighting texas and florida",
+            textOriginal: "i can see cali fighting texas and florida",
+            authorDisplayName: "@REDPILLUSION",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/g565BECeOM3YQTCV8ZIl457lm2v_1uzM1dFsbiZ4tjG_k4zfOG4rdYYphqfWTkMeUE7KhV5faQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@REDPILLUSION",
+            authorChannelId: {
+              value: "UCwMZDGhJCl-Zmj426GqHgjA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T10:02:24Z",
+            updatedAt: "2024-02-22T10:02:24Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "a7nkzKowafSmTo_L_s8SksunZno",
+      id: "UgyNuSzxQ7-uphONBUN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "ruHe8jw4-Sk7nUu48jMKdhbH-14",
+          id: "UgyNuSzxQ7-uphONBUN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "and Godzilla is gonna come out of the Sea to unite us all",
+            textOriginal:
+              "and Godzilla is gonna come out of the Sea to unite us all",
+            authorDisplayName: "@Stoic_Poet",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRttOvzqPF-6fXrg6YNswhqngsMjVGK2bptWmj0NzxN5cBWVHhBrdeRxNB9c_n3=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@Stoic_Poet",
+            authorChannelId: {
+              value: "UCCcxZK9N85nHLbf-wUomSBg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T10:00:22Z",
+            updatedAt: "2024-02-22T10:00:22Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "DSzV9xMbMKohQX4JS5q2f6D9XGw",
+      id: "UgxhYYHH9q5Az8tuU3x4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "3tV1r_CVD2nXOv40P5ndSMqDmGM",
+          id: "UgxhYYHH9q5Az8tuU3x4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Lmfao there is no civil war going to start because of Donald Trump this is about a joke",
+            textOriginal:
+              "Lmfao there is no civil war going to start because of Donald Trump this is about a joke",
+            authorDisplayName: "@user-db4gr7ne8l",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTg_EJDoviRTy9dqZuQWWSID02Jsc8Zgt0_boKG0pwRznyuq1dqT0hfYE_sae6l=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@user-db4gr7ne8l",
+            authorChannelId: {
+              value: "UClz5liQjH05ebszJ-2F7_XA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:56:03Z",
+            updatedAt: "2024-02-22T09:56:03Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "gkEViy9ok-u7Nw2v4BxTvDhYmIo",
+      id: "UgxzQTkP_976_un_QEZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "JLPlJcOTxHJmUL4sgqx_GMN-iho",
+          id: "UgxzQTkP_976_un_QEZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Bring on the psycho comments.  Come on , people.  Talk about how you want this because you’re soft, spoiled life is just SO UNFAIR.",
+            textOriginal:
+              "Bring on the psycho comments.  Come on , people.  Talk about how you want this because you’re soft, spoiled life is just SO UNFAIR.",
+            authorDisplayName: "@theholymackerel072",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/Jf2MzGmv-9kbghTHkFW3iitlYoqZvx4gNEHSv05M9VPjRbTklVA1fhFaFbY35ttlgX46tGIp=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@theholymackerel072",
+            authorChannelId: {
+              value: "UCEG7fTxuVRz_IPzn0670APA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:53:02Z",
+            updatedAt: "2024-02-22T09:53:02Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "wqBBqeRU7FepqaaDjjZMRtJjBUA",
+      id: "Ugws8q0rvWivRCWxHIh4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "GC-0YlY7LRr4VIEWQUkosKJeJkU",
+          id: "Ugws8q0rvWivRCWxHIh4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "This movie looks like it’s gonna suck",
+            textOriginal: "This movie looks like it’s gonna suck",
+            authorDisplayName: "@JohnDoe-sl6di",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQD1vNpFmyJzK3IPijci9gjKw8KxSxlZmTp4MeRHmLfKFdgGR51YxOY4IhJBbNS=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@JohnDoe-sl6di",
+            authorChannelId: {
+              value: "UCAUxlGFNLKKO4po87Ykqgtw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:51:54Z",
+            updatedAt: "2024-02-22T09:51:54Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Jg3_60N2oT7Vt5z0fT2yUPFrjxc",
+      id: "UgxtIGiqp4NBMLZag3R4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "ke4cSSHuSoJ9sF3U554-knwDRcE",
+          id: "UgxtIGiqp4NBMLZag3R4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Well if we had a civil war I&#39;m glad I&#39;m on the side against the government.  Shouldn&#39;t be bad fighting the most depleted, woke, military full of lady boys like Sir Admiral Rachel Levine. Lol <br>Bullshit that Hollywood (who we know is run by the government) is putting out this bullshit propaganda, while calling white people the biggest threat to America. Meanwhile, migrants are beating cops in NY.",
+            textOriginal:
+              "Well if we had a civil war I'm glad I'm on the side against the government.  Shouldn't be bad fighting the most depleted, woke, military full of lady boys like Sir Admiral Rachel Levine. Lol \nBullshit that Hollywood (who we know is run by the government) is putting out this bullshit propaganda, while calling white people the biggest threat to America. Meanwhile, migrants are beating cops in NY.",
+            authorDisplayName: "@ZachKlein-ho4di",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRTrzSVjKzoDGpiX7mrGQKsE9v-MvUGn_HlzobXA6s14wArfRaqn3ApIxnwuB3A=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@ZachKlein-ho4di",
+            authorChannelId: {
+              value: "UCaKnf0lqr9bIGDnCogcs2xA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:50:56Z",
+            updatedAt: "2024-02-22T09:50:56Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "NcP9wsVfqN1a0aYDlWRw0nFWnpU",
+      id: "UgwghERo9KjrbslpQ6x4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "W-M7DgxAS9rD2oKR6JUsRCaAem8",
+          id: "UgwghERo9KjrbslpQ6x4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "coming to a state near you",
+            textOriginal: "coming to a state near you",
+            authorDisplayName: "@jordanviau5315",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQcxvjL1HAqsaZkPJq_BiALOfHh99ijngFzWQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@jordanviau5315",
+            authorChannelId: {
+              value: "UCkna8Y2Ju2nw-uThx6dy2MQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:46:26Z",
+            updatedAt: "2024-02-22T09:46:26Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "9Rh8vMpYznNIOWUJ8Wy_kJq5b0w",
+      id: "UgzPcS78SFtMOduQWTF4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "lVSHU1FPddnPXQBI3_5OTDDDyC8",
+          id: "UgzPcS78SFtMOduQWTF4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "&quot;The Souths gonna go it again.&quot; Charlie Daniels",
+            textOriginal: '"The Souths gonna go it again." Charlie Daniels',
+            authorDisplayName: "@easyeasler",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQHycgVPYwCYI6TqDnRhX9TENxw5laVOiXOxPkuG1YEIHSsQ9msPmimur4OPZP2=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@easyeasler",
+            authorChannelId: {
+              value: "UCyAlQcOtoXmq9yh9Z-TioiA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T09:43:19Z",
+            updatedAt: "2024-02-22T09:43:19Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "22wtGNPTgVbB78sZe6ul18UwDQ4",
+            id: "UgzPcS78SFtMOduQWTF4AaABAg.A06nRfmSoNhA06nu5IpQ5f",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "The best comment so far 😂",
+              textOriginal: "The best comment so far 😂",
+              parentId: "UgzPcS78SFtMOduQWTF4AaABAg",
+              authorDisplayName: "@WyrdBlogger01",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZRK8Sxy9E4_FcWbMLeDm82-Udh5uYs328SVZ9IzmA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@WyrdBlogger01",
+              authorChannelId: {
+                value: "UCT4a4i89cH_oZolp92ZARSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T09:47:20Z",
+              updatedAt: "2024-02-22T09:47:20Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "fl5-4xR4HJF8Z95D3Qd7N_7phyg",
+      id: "UgwHH4wrqqcvb4Tmk_p4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "bXpGdkCRlLdRZpeKW5hDKRzyQSk",
+          id: "UgwHH4wrqqcvb4Tmk_p4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "I see another civil war in America’s future. It will be red vs blue. I just pray I’m long gone before it gets that bad.",
+            textOriginal:
+              "I see another civil war in America’s future. It will be red vs blue. I just pray I’m long gone before it gets that bad.",
+            authorDisplayName: "@Brandon68plus1",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTGxQzFTd2U1dV9d9jMc-IN0jYbF_Vr77ci=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@Brandon68plus1",
+            authorChannelId: {
+              value: "UCNTWkLUNn04L0qOA2xkJjxg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:41:22Z",
+            updatedAt: "2024-02-22T09:41:22Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "r-wGc3Q9ie8UaIy3twU93X6O9_M",
+      id: "Ugy3Nk7-NJpHZYj7PV14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "VLdEjO33HBOI5dDkHXfhoNv_An4",
+          id: "Ugy3Nk7-NJpHZYj7PV14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "I don&#39;t get all the hate this movie gets, modern politics aside, it&#39;s interesting to see a first world power would deal with a civil war in this modern age. <br><br>Moreso if a civil war were really to happen, it would be more akin to the IRA guerrilla war waged against the British",
+            textOriginal:
+              "I don't get all the hate this movie gets, modern politics aside, it's interesting to see a first world power would deal with a civil war in this modern age. \n\nMoreso if a civil war were really to happen, it would be more akin to the IRA guerrilla war waged against the British",
+            authorDisplayName: "@wingsofwinter2600",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/-G7RN3Ul6vZ-WG6xLRSZ-Dr6pUPaafd9cOX2pkISLpbh3K8PiPH_xdV53bywFYdnVLSI5lOuOQ8=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@wingsofwinter2600",
+            authorChannelId: {
+              value: "UC_7BoorVLT-NAZTqP8OsGxQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:36:48Z",
+            updatedAt: "2024-02-22T09:36:48Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "869FbzhqmaUJoMiWv0uilRCI9J8",
+      id: "UgyZoRCtjiSSoaQO9wJ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "_KC4zujec-WZSqMz-O__3iAFrTE",
+          id: "UgyZoRCtjiSSoaQO9wJ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Start: &quot;Citizens of America. The people of The Florida Alliance and the Western forces of California and Texas. Will be welcome back to these United States as soon as their illegal secessionist government is deposed.&quot;<br><br>Everyone is leaving out Florida in the comments.",
+            textOriginal:
+              'Start: "Citizens of America. The people of The Florida Alliance and the Western forces of California and Texas. Will be welcome back to these United States as soon as their illegal secessionist government is deposed."\n\nEveryone is leaving out Florida in the comments.',
+            authorDisplayName: "@memi510",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSVMO0lYUfSXQRyUHFRNwYq1qASb3_9r7qLKz9BZS5X_RF9a4JevI7294GkMt8h=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@memi510",
+            authorChannelId: {
+              value: "UCj5ej5OOqiivq2b7eHaM2Uw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:35:57Z",
+            updatedAt: "2024-02-22T09:46:49Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "jF1xiTnk1MOeU9zZk4Az7uOjDOU",
+      id: "UgwBVEqSZT4HJCAinBh4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "t2abFJ16MezjiyE91WCIHryNvhU",
+          id: "UgwBVEqSZT4HJCAinBh4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Its the cartel/china taking over the west",
+            textOriginal: "Its the cartel/china taking over the west",
+            authorDisplayName: "@PropiaPersona",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQgZgdhlDSuJAxuzFMhEVpjth0Fb_cDYJs9FpUe4g=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@PropiaPersona",
+            authorChannelId: {
+              value: "UCPD7UifOhKmj4A5TIxwgZrA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:32:17Z",
+            updatedAt: "2024-02-22T09:32:17Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "XiyjicOnb-zd3sTvhvLCyIaBLlA",
+      id: "Ugx0VT_Zsn3aJST9hEx4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "QkQiLLacIbwbutSj7MoYFi-Av14",
+          id: "Ugx0VT_Zsn3aJST9hEx4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Liberal movies......hahahahahaha",
+            textOriginal: "Liberal movies......hahahahahaha",
+            authorDisplayName: "@streamer_services",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ALEkKuDR03caKru1gIignT-ZjKdcmltvVu8a1Et9_HiKpPa_G4EzQckZ6Twuf1Ab3szxNo-qpA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@streamer_services",
+            authorChannelId: {
+              value: "UCxt8XRs29ias25e2xm5oWfg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T09:26:57Z",
+            updatedAt: "2024-02-22T09:26:57Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "hDL6zq-nWCn6x4ptXFZCK7fRm1o",
+      id: "Ugz3ftr5IWCwCXWVPeN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "wpDNmW26yYK4Zmyl3LXVS6m4src",
+          id: "Ugz3ftr5IWCwCXWVPeN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Coming soon to a country near you!",
+            textOriginal: "Coming soon to a country near you!",
+            authorDisplayName: "@Rogue_Squatcher",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/lZ5OQtJv4cAwymzFeMfIRM9jlzDhXaLQdTvKpDkdHcD8vQA-J0k7bOftGsWzWYR-PrP7PUyxCg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@Rogue_Squatcher",
+            authorChannelId: {
+              value: "UCW2Qt8KhK5pugu2eTVxKY-g",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:21:16Z",
+            updatedAt: "2024-02-22T09:21:16Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "wGbZ3lPJUR-lL6A3ru87Nn3Skrk",
+      id: "UgwtP_lBz28bUuJMlUN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "j82iL7fL_xAM-tTarg3pbao1snM",
+          id: "UgwtP_lBz28bUuJMlUN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Predictive programming 😂. Goodluck",
+            textOriginal: "Predictive programming 😂. Goodluck",
+            authorDisplayName: "@frogman6.383",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRxCwNFj_lyi_VR7xFGsf9_uOlriqmsP4r5XjCH=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@frogman6.383",
+            authorChannelId: {
+              value: "UCHHWTo9130bzV-LCxKnxvsQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:16:56Z",
+            updatedAt: "2024-02-22T09:16:56Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Rmfu8C_DoW4wWAGC3-JavNRU68k",
+      id: "Ugzm1N9CzyJ-k3MWHq14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "1NESKCYRERVHCGyYpQLZ6VX4KSo",
+          id: "Ugzm1N9CzyJ-k3MWHq14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Looks interesting <br>I’m looking forward to it",
+            textOriginal: "Looks interesting \nI’m looking forward to it",
+            authorDisplayName: "@GenX1969",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ycAj5kHnVPwMQLejTZfF7ZC-sQMlE17YNho3_5QKimdhrmuYDz5MW_KQNZn1cbOx4b3UcqSqmdw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@GenX1969",
+            authorChannelId: {
+              value: "UCHSnvSFKZDQimMIo9Mis_MA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:16:22Z",
+            updatedAt: "2024-02-22T09:16:22Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "OzurYP6jTXNQoIRQF2UvxOMsIoU",
+      id: "UgyZcZDVqXt4WWHxmW14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "oDioc7_M-_B9a_m9EJpTKaitmts",
+          id: "UgyZcZDVqXt4WWHxmW14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "WOW THEY MAKE A MOVIE CALLED CIVIL WAR WHEN OUR COUNTRY IS LITERALLY AT WAR ALL IN PLAIN SIGHT SMH 🤦‍♂️",
+            textOriginal:
+              "WOW THEY MAKE A MOVIE CALLED CIVIL WAR WHEN OUR COUNTRY IS LITERALLY AT WAR ALL IN PLAIN SIGHT SMH 🤦‍♂️",
+            authorDisplayName: "@andrewcarson6925",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/HqvOfSsTYTvoRwLRc5KpVL8FeIwYprBxZd6i6R1QbBQjbJ7kVcCrk-7gkizx0BQzuS6YH24V=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@andrewcarson6925",
+            authorChannelId: {
+              value: "UCg0250rx3Udib6Bm-Ksxzrg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:14:43Z",
+            updatedAt: "2024-02-22T09:14:43Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "9awrAtJBbcuydOECG5cNPd5q8V4",
+      id: "UgzoytTuKglZdi9aUxt4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "gIi1ure_Qr7dTVgSMNO1capTxXU",
+          id: "UgzoytTuKglZdi9aUxt4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Most of the people saying they want a civil war in this country have never experienced war. Y’all talk a big until you see someone die in front of you. War will be terrible for this country right now. Good concept for a movie though.",
+            textOriginal:
+              "Most of the people saying they want a civil war in this country have never experienced war. Y’all talk a big until you see someone die in front of you. War will be terrible for this country right now. Good concept for a movie though.",
+            authorDisplayName: "@staceewilliams9495",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTPeV37c5V_m3G0uep46jlYHlyQKlCRDuulizqaUA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@staceewilliams9495",
+            authorChannelId: {
+              value: "UCpEvFBXJfl9pu5DNTgmLgxQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:13:22Z",
+            updatedAt: "2024-02-22T09:13:22Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "10wwb_polVoCYp05p96ood6gZbI",
+      id: "Ugzss6_y5o3u6yVEZ1J4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "UXXtRr8NbLqAE1307yQK8o5wMdI",
+          id: "Ugzss6_y5o3u6yVEZ1J4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "If we went down hill so far enough as for the nation to crash into a civil war. This country would be so far more devided than this. Poltical, Culteral, religouse, as not to mention any number of Militant malitias would take controll of what they could.",
+            textOriginal:
+              "If we went down hill so far enough as for the nation to crash into a civil war. This country would be so far more devided than this. Poltical, Culteral, religouse, as not to mention any number of Militant malitias would take controll of what they could.",
+            authorDisplayName: "@christopherknox7009",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/G3Zjco3qaqySnDGY48PK6IS_3l0RyuuC4uoy-YeMipAJI084qaOKKzEMmSrOhLHP13p2lKA0AwA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@christopherknox7009",
+            authorChannelId: {
+              value: "UCi0Xo1a1-_D5qEHOvWvf17Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:09:36Z",
+            updatedAt: "2024-02-22T09:09:36Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "bprUuEA_PvBBQKoHrM98KPmrNlI",
+      id: "Ugz2SdxlSwpnX64p0E54AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "5l7DD0Um0sTbINGpudNRxsJ_Tb8",
+          id: "Ugz2SdxlSwpnX64p0E54AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Possibly the gayest thing I&#39;ve seen yet.",
+            textOriginal: "Possibly the gayest thing I've seen yet.",
+            authorDisplayName: "@dowz0r",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZR9to2sAE0KFSU3XFRTUcwkjLM_5CNubI1uU9AOYA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@dowz0r",
+            authorChannelId: {
+              value: "UCqHyj38fnRIfV2AGpzuTF4Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:09:07Z",
+            updatedAt: "2024-02-22T09:09:07Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "3JaSFTC5-v52Ra9zyjBhAtlncPk",
+      id: "UgwuaxbreFcoJtmF8nt4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "SkUJE_z_od3kP0ZYmvSi8RmMMlw",
+          id: "UgwuaxbreFcoJtmF8nt4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "USA is  facing with their sins  what they done in world",
+            textOriginal:
+              "USA is  facing with their sins  what they done in world",
+            authorDisplayName: "@sabanaktas7400",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQKeSTRsUCoT7GBpLy3IRaAvkII2HZ4IvAyZg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@sabanaktas7400",
+            authorChannelId: {
+              value: "UC4VzDtDb-slnqxKduwbG_DA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:07:31Z",
+            updatedAt: "2024-02-22T09:07:31Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "pCZ0phW1zk7FwLpP9li4hEMkT9s",
+      id: "UgzlGNhiKTS4VCGv6a14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "imISu2bsX-LhMozcjzLzsTKQlpg",
+          id: "UgzlGNhiKTS4VCGv6a14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "It never happens. It cannot.",
+            textOriginal: "It never happens. It cannot.",
+            authorDisplayName: "@luismartinez6408",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/llwUv14-mqyn3Ca1Rb7HIna9o1xzKh9WXbu5fdjX_aGHK5xTLuhPvaLFfZdYeWe-gIVOj1YFIA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@luismartinez6408",
+            authorChannelId: {
+              value: "UC6Ep1jpnWoZ1vETVQUwAGjQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T09:04:59Z",
+            updatedAt: "2024-02-22T09:04:59Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "HaCHYxjyCObwfv2OtJim-otFWEc",
+      id: "UgwnkYK8VJfaxa0aVA14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "vW2wxi6fhqMJAELzrHCO9-mr77Y",
+          id: "UgwnkYK8VJfaxa0aVA14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "I have lived through your various enemies in cinema history, never expecting it to end up being yourselves with a strong chance of reality mimicking art.",
+            textOriginal:
+              "I have lived through your various enemies in cinema history, never expecting it to end up being yourselves with a strong chance of reality mimicking art.",
+            authorDisplayName: "@davewilson9738",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRq26qj8Rcn-bVmt0oXvXrU7u_O21okEMgsLA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@davewilson9738",
+            authorChannelId: {
+              value: "UCVwp3cTW5k8Lw9xtvjqlupw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:59:43Z",
+            updatedAt: "2024-02-22T08:59:43Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "MtHNSR5YxcmPiNQI5zWyUaN5Das",
+      id: "UgwB2mDSVvOXbc9Gg6d4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "m89j5lot_gTo-feyxhJ7SF2LsT0",
+          id: "UgwB2mDSVvOXbc9Gg6d4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "And the Elite is super happy following their 2030 agenda. A civil war creates division and thus the great kings will triumph by abolishing the human rights of freedom.",
+            textOriginal:
+              "And the Elite is super happy following their 2030 agenda. A civil war creates division and thus the great kings will triumph by abolishing the human rights of freedom.",
+            authorDisplayName: "@FartRetriever",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/wcLGQW1b1NxURyF7zSdykQsQJMfMS_iMd5Mbmcb_z1WL73VN9FFIq6aPD4G4gXFBw2KFbgJtqw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@FartRetriever",
+            authorChannelId: {
+              value: "UC19p0u2c07GQbCak0n_LmJw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:57:14Z",
+            updatedAt: "2024-02-22T08:57:14Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "22WS5TQsLZnwZuUnewk5PSRPqqg",
+      id: "UgzgjOvdsLczHRNeWUl4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "WoBZ4fD2YTB6hE5rHLsp998HU24",
+          id: "UgzgjOvdsLczHRNeWUl4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "So its cali and Texas vs America? Not really understanding this, it looked like military vs military...",
+            textOriginal:
+              "So its cali and Texas vs America? Not really understanding this, it looked like military vs military...",
+            authorDisplayName: "@crusaderone1701",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTgrWffnXhkcJG7EtYVbvp9WcQsxHidBG5koQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@crusaderone1701",
+            authorChannelId: {
+              value: "UCU4IU49c_TAFUp54CuWUrrw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:57:11Z",
+            updatedAt: "2024-02-22T08:57:11Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "fPIiji_uvex-V4Oax6meBVdkVP8",
+      id: "UgxluNtzw_hTqgNstzJ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "uvXRB9TSXQqvApyuYCInLwH1fAQ",
+          id: "UgxluNtzw_hTqgNstzJ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Lame bad flik.",
+            textOriginal: "Lame bad flik.",
+            authorDisplayName: "@BIGM-gg9ln",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTDklfrlKTT4cz3e9F-pV6FrY4zu7gAibNYUg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@BIGM-gg9ln",
+            authorChannelId: {
+              value: "UCFppbK7Qw7Q2-F3y1srgaUQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:57:04Z",
+            updatedAt: "2024-02-22T08:57:04Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "QrmxwIUm-A43w_DmjXA8HS13f5g",
+      id: "UgwGCz8_v9hs4MzMjSd4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "sUtujpTXZDWhnZv6znjb6SwptDw",
+          id: "UgwGCz8_v9hs4MzMjSd4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "More like America vs. Massachusetts California and NY + urban shitholes",
+            textOriginal:
+              "More like America vs. Massachusetts California and NY + urban shitholes",
+            authorDisplayName: "@dennislosee",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSLpKR6bQSGlIDtbXG5QBb4-ruZD8dRKWRbde08rg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@dennislosee",
+            authorChannelId: {
+              value: "UC3y10BAhCuDPHd7kabAiBdA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T08:48:46Z",
+            updatedAt: "2024-02-22T08:48:46Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "tQiGe_SpmyChrUpGHPNmLXI0hJI",
+      id: "UgwDqLcWSSk1VCwCOFN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "OfkOyqNviAHDVcky6oFWLxUjcbs",
+          id: "UgwDqLcWSSk1VCwCOFN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Wait... Direct Energy Weapons are no longer a conspiracy theory?",
+            textOriginal:
+              "Wait... Direct Energy Weapons are no longer a conspiracy theory?",
+            authorDisplayName: "@AntiochConvert",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/r033gtSdHnH-vCSfmsttW-oIyPuWRtiWHgz3JDzPMy346w4Sl8eOggf9OPq9Whj3E8A0eynp7g=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@AntiochConvert",
+            authorChannelId: {
+              value: "UCMA_xXWFAs3RGeo5euSa-6Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:46:05Z",
+            updatedAt: "2024-02-22T08:46:05Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "kKnnT2tHhHRNSOHwyXZJCV2FSlI",
+      id: "UgztTnFJIpqhQJB6TzB4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "rn6FgIGn1E5v3kUFCHfa3-v0cFQ",
+          id: "UgztTnFJIpqhQJB6TzB4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "About time 😉 let’s see if life will imitate art in the not so distant future ✌️",
+            textOriginal:
+              "About time 😉 let’s see if life will imitate art in the not so distant future ✌️",
+            authorDisplayName: "@john-dextertecson3688",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRwHBiQVsBv8o-1eS2I466jEjmEiw88fjhiE8xW=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@john-dextertecson3688",
+            authorChannelId: {
+              value: "UCH9XyZQkFX1vKl7xRruISwQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:40:16Z",
+            updatedAt: "2024-02-22T08:40:39Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "vG6lyxKWoCVdoYIQxRgwqnV9V0w",
+      id: "UgwdaQw7X86lYS_grUZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "2Np2rSG-VqoKVTmxWdlHQYeT3Kg",
+          id: "UgwdaQw7X86lYS_grUZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Predictive programming much... it&#39;s getting way too obvious 🤡",
+            textOriginal:
+              "Predictive programming much... it's getting way too obvious 🤡",
+            authorDisplayName: "@caseyjames6018",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSdUbFKpgcNNPLjXdaoE2UfUZZDl9ZTy5nxhmmcUw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@caseyjames6018",
+            authorChannelId: {
+              value: "UC8-MkPmCIdAEMEWJfvB_45A",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:33:45Z",
+            updatedAt: "2024-02-22T08:33:45Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "UOOMEEbGJvDf66TjM-7NlpKfeys",
+      id: "Ugz-GfyHsrk-XzaJ9oB4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "WuHvZPmprchbD55HZL05ZwrcQ28",
+          id: "Ugz-GfyHsrk-XzaJ9oB4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "THE DIVISION the movie???? 🤣",
+            textOriginal: "THE DIVISION the movie???? 🤣",
+            authorDisplayName: "@rumble_n0w",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/UnaLBPR7YTvgoX6luJcMib1CF1iZGZsmESWkxU3FbkvzZYJ5e72NTG2Ct0lvP_5ttrb8WdQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@rumble_n0w",
+            authorChannelId: {
+              value: "UCu-QSzJrl8yKRHrF1zAPL6w",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:33:16Z",
+            updatedAt: "2024-02-22T08:33:16Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "XR9eEdSqwMvYUBxJysOi4zZxZfE",
+      id: "UgzsA_kaW4NTxD1L7ht4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "SHJYID-24EtklRNN3OJkz4FPHXw",
+          id: "UgzsA_kaW4NTxD1L7ht4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Fictitiously speaking, if it came down to choosing sides, the America 1st supporters (troops, cops, blue collar workers, gun owners etc) would slaughter the opposition!",
+            textOriginal:
+              "Fictitiously speaking, if it came down to choosing sides, the America 1st supporters (troops, cops, blue collar workers, gun owners etc) would slaughter the opposition!",
+            authorDisplayName: "@scout805",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQ9qmQi14P6NB5YosFRPsFrFjSOU28px8t6JOf6xQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@scout805",
+            authorChannelId: {
+              value: "UCLCeVNjd70Lle3mv97nxBRA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T08:26:55Z",
+            updatedAt: "2024-02-22T08:26:55Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "gjCeNmTdDbp-OnmR4ZKWaCxVl-I",
+      id: "Ugzt8ugT8C31evuo7Vp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "c9f3RCizK00IuuCjOj0AZiO2Le8",
+          id: "Ugzt8ugT8C31evuo7Vp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Something tells me this movie&#39;s gonna hit pretty hard. Given the times we&#39;re in right now but california and texas in an alliance , I don&#39;t know about that",
+            textOriginal:
+              "Something tells me this movie's gonna hit pretty hard. Given the times we're in right now but california and texas in an alliance , I don't know about that",
+            authorDisplayName: "@kyleott7758",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZT70_J5wST9gG-oJguuPUHE9aUd5D7-8zqYnBBiww=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@kyleott7758",
+            authorChannelId: {
+              value: "UCfoUa3M1ab6SuZTa0RygDIg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T08:25:53Z",
+            updatedAt: "2024-02-22T08:25:53Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "F255NeAzSam8oGKKv_pXBxH4DD0",
+            id: "Ugzt8ugT8C31evuo7Vp4AaABAg.A06e_We9Zk2A06nlRqlb1s",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "That alliance represents the &quot;logic&quot; of hollywood Progressives.",
+              textOriginal:
+                'That alliance represents the "logic" of hollywood Progressives.',
+              parentId: "Ugzt8ugT8C31evuo7Vp4AaABAg",
+              authorDisplayName: "@WyrdBlogger01",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZRK8Sxy9E4_FcWbMLeDm82-Udh5uYs328SVZ9IzmA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@WyrdBlogger01",
+              authorChannelId: {
+                value: "UCT4a4i89cH_oZolp92ZARSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T09:46:09Z",
+              updatedAt: "2024-02-22T09:46:09Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "epQ8NBKwmeFiV6EF1L6-WPalBRw",
+      id: "UgwCvgRqbFb5JBF_J4d4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "EEj33eN2MaN8zVUzkktvP04_lS8",
+          id: "UgwCvgRqbFb5JBF_J4d4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Alliance between Texas and California I don&#39;t buy it.",
+            textOriginal:
+              "Alliance between Texas and California I don't buy it.",
+            authorDisplayName: "@EqualOpportunityDestoroya",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/T8DMfictInDROsXR2UaJgsCqwyR4TIvGaSNa8yR-PADkNk1sonxUruPgz86PTeb9vhOqcFXa=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl:
+              "http://www.youtube.com/@EqualOpportunityDestoroya",
+            authorChannelId: {
+              value: "UCuc8ukC3n9dmywmCbR5Jfaw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:25:15Z",
+            updatedAt: "2024-02-22T08:25:15Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "xrIBMrejaUV1dRwO1clOhqgPEgw",
+            id: "UgwCvgRqbFb5JBF_J4d4AaABAg.A06eVxtx6TSA06lu4sTr6W",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "It sounds like progressive leftist brainwashing.",
+              textOriginal: "It sounds like progressive leftist brainwashing.",
+              parentId: "UgwCvgRqbFb5JBF_J4d4AaABAg",
+              authorDisplayName: "@WyrdBlogger01",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZRK8Sxy9E4_FcWbMLeDm82-Udh5uYs328SVZ9IzmA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@WyrdBlogger01",
+              authorChannelId: {
+                value: "UCT4a4i89cH_oZolp92ZARSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T09:29:51Z",
+              updatedAt: "2024-02-22T09:29:51Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "wl2khDtTdy0UkYh2vFUhAMogDJ0",
+      id: "UgyBAeTXISM6MBmZx5R4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "haEmAzCjJoyxyIA1XJzyXuDO-Fw",
+          id: "UgyBAeTXISM6MBmZx5R4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Yeah, I would rather see a film about eating the rich. I may have different political views than Americans in other states, but they&#39;re not the problem, the insanely wealthy are the problems.",
+            textOriginal:
+              "Yeah, I would rather see a film about eating the rich. I may have different political views than Americans in other states, but they're not the problem, the insanely wealthy are the problems.",
+            authorDisplayName: "@thomashirschy7649",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQQFD3GJbSMkdQ5VE84ft28Wwky3EOeTBLqdzpCmQ73_Xz2lZ9XwirfmQRHDDyV=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@thomashirschy7649",
+            authorChannelId: {
+              value: "UCIDcm7tKXN94NCZhysHM0sg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:23:23Z",
+            updatedAt: "2024-02-22T08:23:23Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "3Zs7HdfpnNCp-qkZViokAMCBqMo",
+      id: "UgyAE82p8HUYkXkIPh14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "OUP0V9Vfa3xanR9GFL7ERWzkjaY",
+          id: "UgyAE82p8HUYkXkIPh14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Is that pablo escobar?",
+            textOriginal: "Is that pablo escobar?",
+            authorDisplayName: "@JamesThomas-tu6ix",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQOKI_93O4A1NXMCodFNTFxs5RxcVOe3bbBj4Wj=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@JamesThomas-tu6ix",
+            authorChannelId: {
+              value: "UCIuDtjamZALt-i7PBVDwVdQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:22:58Z",
+            updatedAt: "2024-02-22T08:22:58Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "9jWGCOuhOFflWjV-7G5afoQIKXM",
+      id: "UgzL95dldpEwql7RfV94AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "LOeBrykNCk0mDnf16WD2l6b7fvg",
+          id: "UgzL95dldpEwql7RfV94AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Texas and California together 🤣🤦‍♂️??? That would never ever happen in a million years. Dumb very very dumb!!!",
+            textOriginal:
+              "Texas and California together 🤣🤦‍♂️??? That would never ever happen in a million years. Dumb very very dumb!!!",
+            authorDisplayName: "@aguythatworkstoomuch4624",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/TodV7nXnrIeAezyQmRHrJSgCSGNYBcSPwfA0FH9W5_0T8-lJFYBfqCPoNXDCBBd2EcNnTER0nA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl:
+              "http://www.youtube.com/@aguythatworkstoomuch4624",
+            authorChannelId: {
+              value: "UCWAjjqepHuUbaiqvOyGVd-Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 2,
+            publishedAt: "2024-02-22T08:22:02Z",
+            updatedAt: "2024-02-22T08:22:02Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "gYeqHqtEVUKL3otuw8VeC7tf55s",
+            id: "UgzL95dldpEwql7RfV94AaABAg.A06e8Ne-agkA06mwWfRvA5",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "The logic of hollywood progressives.",
+              textOriginal: "The logic of hollywood progressives.",
+              parentId: "UgzL95dldpEwql7RfV94AaABAg",
+              authorDisplayName: "@WyrdBlogger01",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZRK8Sxy9E4_FcWbMLeDm82-Udh5uYs328SVZ9IzmA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@WyrdBlogger01",
+              authorChannelId: {
+                value: "UCT4a4i89cH_oZolp92ZARSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T09:38:55Z",
+              updatedAt: "2024-02-22T09:38:55Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "JuCVsyMvoe0Q8MCda2l3laHnFQY",
+      id: "UgwylO_GZgDS6HLKnup4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "qUc2UHSccxCgjgMe7mrTNFnDM7I",
+          id: "UgwylO_GZgDS6HLKnup4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Buffalo soldier, dreadlocked rasta",
+            textOriginal: "Buffalo soldier, dreadlocked rasta",
+            authorDisplayName: "@tetleyT",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSADAW12azhRCVfH11QAJVaq7QSKn4iwqEfPihTDA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@tetleyT",
+            authorChannelId: {
+              value: "UCLL6LU5OYyIWfA4wVFklqHw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:20:33Z",
+            updatedAt: "2024-02-22T08:20:33Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "LIc5i4ldvaT8ZKndjwScK-B0n_Q",
+      id: "UgzBPvofEYCqJ8-bNk14AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "9EIjMMpg4HZL3CzCQ29BRCM64sU",
+          id: "UgzBPvofEYCqJ8-bNk14AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Why anyone wants to see a movie about a ridiculous war between Americans is morally bankrupted.  The day the United States loses control of the checks and balances and the separation of powers by the 3 branches of government, is the day the Earth as a planet is in true peril.  This movie seems like a brainwash attempt.  What happened to the movies about the world coming together to fight evil aliens from outter space, or destying dangerous asteroids.  Why humans like to butcher each other over land and power is beyond my comprehension.",
+            textOriginal:
+              "Why anyone wants to see a movie about a ridiculous war between Americans is morally bankrupted.  The day the United States loses control of the checks and balances and the separation of powers by the 3 branches of government, is the day the Earth as a planet is in true peril.  This movie seems like a brainwash attempt.  What happened to the movies about the world coming together to fight evil aliens from outter space, or destying dangerous asteroids.  Why humans like to butcher each other over land and power is beyond my comprehension.",
+            authorDisplayName: "@derzua",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSLqlQ1SFOE0dpvOsYnSbgBOCqj6l3DfCGxmabFlA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@derzua",
+            authorChannelId: {
+              value: "UCjk_qhSUOYKuIngxFDkw3Mw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:19:23Z",
+            updatedAt: "2024-02-22T08:19:23Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Gzm2A1oK1htPsZSEXPK2hDWIhpY",
+      id: "UgyuQCGb0tsT58AmtJl4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "FeyFOLpl6S94nPGx_gNg3LjbqSY",
+          id: "UgyuQCGb0tsT58AmtJl4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "When Biden kicks off CW2..the world will tremble at the level of violence that turning govt troops on the citizens will bring",
+            textOriginal:
+              "When Biden kicks off CW2..the world will tremble at the level of violence that turning govt troops on the citizens will bring",
+            authorDisplayName: "@orion2250",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTQ4fqCPA3DQVr7Dcu2trwBLlNjAeak_J8AoQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@orion2250",
+            authorChannelId: {
+              value: "UC_arZ6qg6WSPjQiJ4mX6LTA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:16:18Z",
+            updatedAt: "2024-02-22T08:16:18Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "3l2bznOfU878B6aVjXAuGPjpPPQ",
+            id: "UgyuQCGb0tsT58AmtJl4AaABAg.A06dUST1HnXA06fJTSgXaz",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "The majority of &quot;troops&quot; are Trump supporters and would rebel against a commander in chief (biden) if &quot;civil war&quot; broke out! Like if biden said we sold America to china We the People would Die to preserve it.",
+              textOriginal:
+                'The majority of "troops" are Trump supporters and would rebel against a commander in chief (biden) if "civil war" broke out! Like if biden said we sold America to china We the People would Die to preserve it.',
+              parentId: "UgyuQCGb0tsT58AmtJl4AaABAg",
+              authorDisplayName: "@scout805",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQ9qmQi14P6NB5YosFRPsFrFjSOU28px8t6JOf6xQ=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@scout805",
+              authorChannelId: {
+                value: "UCLCeVNjd70Lle3mv97nxBRA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 1,
+              publishedAt: "2024-02-22T08:32:17Z",
+              updatedAt: "2024-02-22T08:32:17Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "nlDWpPdn_FTwtMbCzclEVHfw2wk",
+      id: "UgzN6kim535mVkP0RQN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "Pwr84Qi-qikymkEv5jDMQPE89WU",
+          id: "UgzN6kim535mVkP0RQN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "&quot;War is when the government tells you who the bad guy is. Revolution is when you decide that for yourself.&quot; ~ Benjamin Franklin",
+            textOriginal:
+              '"War is when the government tells you who the bad guy is. Revolution is when you decide that for yourself." ~ Benjamin Franklin',
+            authorDisplayName: "@capnhands",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSoVGP5jXGUlDX8xZom-nGf2Si7Kdz5cpD6pySo=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@capnhands",
+            authorChannelId: {
+              value: "UCdmteL1-3jilzcvanCz-Ing",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:15:59Z",
+            updatedAt: "2024-02-22T08:15:59Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "VKnd4obBbfGWq3ltvY06jyWKte4",
+      id: "UgzVlcn4rSIagOax_Jp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "uf0t2_5L1XF_vy-r6H6YdeFvnGY",
+          id: "UgzVlcn4rSIagOax_Jp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Going to be a stupid ass movie lol",
+            textOriginal: "Going to be a stupid ass movie lol",
+            authorDisplayName: "@unvcht5046",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/8v9CiFUaQa7jOj9i85ZKDq1ZNYwMUkjlU0pREKyf7sphP4QA00539C7KOZXK9ACXl68Dj6bIVZE=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@unvcht5046",
+            authorChannelId: {
+              value: "UCzUQZM08u8NIkUb20SixYCg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:15:17Z",
+            updatedAt: "2024-02-22T08:15:17Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Fg7Gi7q_aMIFnPyPNaoPG3wCJ5c",
+      id: "Ugw82ojmDGMNIJXyiOp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "a7kaW-NyYpK1AgtWxtTh5faP9vA",
+          id: "Ugw82ojmDGMNIJXyiOp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Why the hell would they put out a movie like that right now?!! I don’t think people understand how unstable this country really is right now…. 😢",
+            textOriginal:
+              "Why the hell would they put out a movie like that right now?!! I don’t think people understand how unstable this country really is right now…. 😢",
+            authorDisplayName: "@JohnDoe-mt7si",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTH2PtBSzFdqsQ5BKxWN2JgqD-8RTI3S8TYXg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@JohnDoe-mt7si",
+            authorChannelId: {
+              value: "UCZGbeH6SybRSO_zM2BLfNpg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:13:45Z",
+            updatedAt: "2024-02-22T08:13:45Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 2,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "M-EYO8RsBwZA4dpRkIaVloNloFM",
+            id: "Ugw82ojmDGMNIJXyiOp4AaABAg.A06dBh4lLSMA06eDLN8qMu",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "Seems it&#39;s unstable and divided because Dems would rather destroy America than see Trump in office. They don&#39;t want Peace and Prosperity, they want War and Poverty.",
+              textOriginal:
+                "Seems it's unstable and divided because Dems would rather destroy America than see Trump in office. They don't want Peace and Prosperity, they want War and Poverty.",
+              parentId: "Ugw82ojmDGMNIJXyiOp4AaABAg",
+              authorDisplayName: "@scout805",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQ9qmQi14P6NB5YosFRPsFrFjSOU28px8t6JOf6xQ=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@scout805",
+              authorChannelId: {
+                value: "UCLCeVNjd70Lle3mv97nxBRA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 1,
+              publishedAt: "2024-02-22T08:22:43Z",
+              updatedAt: "2024-02-22T08:22:43Z",
+            },
+          },
+          {
+            kind: "youtube#comment",
+            etag: "KoPQwZtcYWdYkQf5WtPP5tUZSkw",
+            id: "Ugw82ojmDGMNIJXyiOp4AaABAg.A06dBh4lLSMA06oDFrW5Bq",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "​@@scout805You are a correct-minded individual 🫡",
+              textOriginal: "​@@scout805You are a correct-minded individual 🫡",
+              parentId: "Ugw82ojmDGMNIJXyiOp4AaABAg",
+              authorDisplayName: "@WyrdBlogger01",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZRK8Sxy9E4_FcWbMLeDm82-Udh5uYs328SVZ9IzmA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@WyrdBlogger01",
+              authorChannelId: {
+                value: "UCT4a4i89cH_oZolp92ZARSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T09:50:05Z",
+              updatedAt: "2024-02-22T09:50:05Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "PfPb02a4AXanDHN01P35XFn0tec",
+      id: "Ugzn_l9RMbYuPsYsxRl4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "MUxvHm6HKyttPqrlrbTC1u-jGuo",
+          id: "Ugzn_l9RMbYuPsYsxRl4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "lame.",
+            textOriginal: "lame.",
+            authorDisplayName: "@borregoayudando1481",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQfFtCke3nvb17_8hcFl12uEZQYwvoNyDUdRDvP0Wo=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@borregoayudando1481",
+            authorChannelId: {
+              value: "UCRkiMAl-Lporju_-pNpNTPg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:12:34Z",
+            updatedAt: "2024-02-22T08:12:34Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "t_vYu1EZZNyc6YWEj34jG_F45Ks",
+      id: "UgwzaAPsZKO8rs_mZAt4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "EeatTNf_D1NXAd_S31agn_62Mi8",
+          id: "UgwzaAPsZKO8rs_mZAt4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Civil war.. factions fighting each other and those watching it all go down.",
+            textOriginal:
+              "Civil war.. factions fighting each other and those watching it all go down.",
+            authorDisplayName: "@damianmarley7177",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSu9wm47TZ2316nE_57CDX6Wd6R4hdS5RiUfDaE-BUfizb-_4vkbvsX67ndlqQ5=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@damianmarley7177",
+            authorChannelId: {
+              value: "UCHnazr17ldJg3mzbAD5c3xw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:12:28Z",
+            updatedAt: "2024-02-22T08:12:28Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "48NjsJhpdWtWOTEr79GXUKGpapc",
+      id: "UgwKz-CYQof3JD0rC4l4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "OvcTrokYCQBQPyPKXHomm0iYhEI",
+          id: "UgwKz-CYQof3JD0rC4l4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Thinking the government would win is laughable",
+            textOriginal: "Thinking the government would win is laughable",
+            authorDisplayName: "@hunterbarrett5182",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSShym7jw1GOvEYMh4QglwivJtXXI8HakETfYk-=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@hunterbarrett5182",
+            authorChannelId: {
+              value: "UCCZKHiJtmwCtLuTClMx5tbw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:07:57Z",
+            updatedAt: "2024-02-22T08:07:57Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "6NjqXv_1aBCPscIiibFxMfM-t6U",
+      id: "UgxXdf3AWmVKakEtADl4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "uKVtE1B1884MvXaMnVLmY1QEdpE",
+          id: "UgxXdf3AWmVKakEtADl4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "&quot;Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny.&quot; - Aristotle.",
+            textOriginal:
+              '"Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny." - Aristotle.',
+            authorDisplayName: "@seanedwards6169",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQMnilp50iZhaw1uhrYUDSXXA8y8PPQY5nqWA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@seanedwards6169",
+            authorChannelId: {
+              value: "UCQcSNzqm4p8GdDE9zeglRSA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:07:02Z",
+            updatedAt: "2024-02-22T08:07:02Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "rM1r_w_8TpXhqQFTUc40oU9Peqk",
+      id: "Ugww_K0hiSUdWy9vwAh4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "jyLpNfm-ZIlpN9ySdMAvI1Kdon8",
+          id: "Ugww_K0hiSUdWy9vwAh4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Gee I wonder who the bad guys are",
+            textOriginal: "Gee I wonder who the bad guys are",
+            authorDisplayName: "@I.Odnamra",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/PVzEFhp4Aju3e62fTEGl8qMwseJ-PkfK1dMsWrihnnccb8J1jbX502T4BX1A1zxQOohWsAzligQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@I.Odnamra",
+            authorChannelId: {
+              value: "UC3MPMzOTGCUKYVUXZi1YbjQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T08:02:54Z",
+            updatedAt: "2024-02-22T08:02:59Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Xia3WopfSDc2WGo3Y3FiVVfjiHY",
+      id: "UgyOTvk-n0CgQWPkv-l4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "B0U2RxSA19nFWqFGHyNfLLRs9Yo",
+          id: "UgyOTvk-n0CgQWPkv-l4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "The country is already in a civil war it just hasn&#39;t turned kinetic yet.",
+            textOriginal:
+              "The country is already in a civil war it just hasn't turned kinetic yet.",
+            authorDisplayName: "@seanedwards6169",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQMnilp50iZhaw1uhrYUDSXXA8y8PPQY5nqWA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@seanedwards6169",
+            authorChannelId: {
+              value: "UCQcSNzqm4p8GdDE9zeglRSA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:57:41Z",
+            updatedAt: "2024-02-22T07:57:41Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "h99ZgLwGmiNP48YouVMtm99VmkY",
+      id: "UgwskKCO0uebIEnVaWZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "qo-2gAYN67qcdAmlIuzXb7uwReE",
+          id: "UgwskKCO0uebIEnVaWZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Hoping everyone chooses to make things great again this year! 🇺🇲",
+            textOriginal:
+              "Hoping everyone chooses to make things great again this year! 🇺🇲",
+            authorDisplayName: "@rumham7130",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSzyaAYzqYF8c4nr0xQ7rXR6vgjXV88y_CSCnoxSapp1OA7b0eTwKDtZNumah-C=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@rumham7130",
+            authorChannelId: {
+              value: "UChNeb2OybrUZi7DHsDAlH0g",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 5,
+            publishedAt: "2024-02-22T07:54:26Z",
+            updatedAt: "2024-02-22T07:54:26Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "g0WcFAqEb4g5oqEHKks6c-RjQE4",
+      id: "UgyIq5EEQLH02aeEodJ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "ApMWTGAstYGR8gl60Jt_N-ohWAA",
+          id: "UgyIq5EEQLH02aeEodJ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "&gt; Jewish distribution \r<br>&gt; Jewish producers\r<br>&gt; Whites depicted as Nazi Militia extremists \r<br>&gt; Shaniqua CO directing her troops to blow up the Lincoln Monument\r<br>&gt; Trans sniper with painted nails\r<br>\r<br>predictable and tiresome...",
+            textOriginal:
+              "> Jewish distribution \r\n> Jewish producers\r\n> Whites depicted as Nazi Militia extremists \r\n> Shaniqua CO directing her troops to blow up the Lincoln Monument\r\n> Trans sniper with painted nails\r\n\r\npredictable and tiresome...",
+            authorDisplayName: "@philly442",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQfOjWCPhxhfkp29efTY0oEdMNZPFqLtPQbmw50dg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@philly442",
+            authorChannelId: {
+              value: "UCPNSgFDNWNng1DrsZvm-vNQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T07:50:51Z",
+            updatedAt: "2024-02-22T07:50:51Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "FGfwPAOnqt6f9zJ_r-zKtvHlxDA",
+            id: "UgyIq5EEQLH02aeEodJ4AaABAg.A06aZxBDh-fA06bg2d7OVt",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "wtf are you doing here i just seen your comment on the trailer lol lets see if you meet again",
+              textOriginal:
+                "wtf are you doing here i just seen your comment on the trailer lol lets see if you meet again",
+              parentId: "UgyIq5EEQLH02aeEodJ4AaABAg",
+              authorDisplayName: "@shootingstar3371",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQuHrzflUvTUapL9l6lJ_nJn-cboR7xh6sWww=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@shootingstar3371",
+              authorChannelId: {
+                value: "UCt3UdVjdL84kydRinsWo3RA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T08:00:33Z",
+              updatedAt: "2024-02-22T08:00:33Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "EUt39Rstaj7qYllBE-m5YWpDLhc",
+      id: "Ugzanp-23oSIxcm3_9t4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "7nMyaAk6M7hxdWqngtR4nyS0XPA",
+          id: "Ugzanp-23oSIxcm3_9t4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Texas and Northern California are the only real states.",
+            textOriginal:
+              "Texas and Northern California are the only real states.",
+            authorDisplayName: "@GOUST3D",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/Z_M2ua4Me0zSwLJMtC75TJzmkzEv6Hgls8K_W_UGXtwi8XkrTzjC8ddantsvKgfZJoyS6_PTKQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@GOUST3D",
+            authorChannelId: {
+              value: "UCE1ZePNY7LQ2RgWOjm7DcLQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:50:01Z",
+            updatedAt: "2024-02-22T07:50:01Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "3Knfnm91Dt8hGsb-R-E3PedpMAY",
+      id: "UgweBls5YCX7Y76DH3x4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "yVnvcDXoqQVeCR_EUp8_vgs6WJQ",
+          id: "UgweBls5YCX7Y76DH3x4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "More predictive programming!",
+            textOriginal: "More predictive programming!",
+            authorDisplayName: "@beaucoupfuegorecords78",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/rpxQyKu0lREYCnoQbdCdUFnxXl9EgXKeHzNUoJcfPjlapdXQoaxf5riIgO2rGXHGm2d9nIRdds8=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@beaucoupfuegorecords78",
+            authorChannelId: {
+              value: "UCv0PuUuipz5Sc0yiJb_-qFg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:49:32Z",
+            updatedAt: "2024-02-22T07:49:32Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "Bbpd_BCf6CjbaJHiIlZwqRO93Yk",
+            id: "UgweBls5YCX7Y76DH3x4AaABAg.A06aQKICynVA06b-WVW35W",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "why tho?",
+              textOriginal: "why tho?",
+              parentId: "UgweBls5YCX7Y76DH3x4AaABAg",
+              authorDisplayName: "@shootingstar3371",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQuHrzflUvTUapL9l6lJ_nJn-cboR7xh6sWww=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@shootingstar3371",
+              authorChannelId: {
+                value: "UCt3UdVjdL84kydRinsWo3RA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T07:54:37Z",
+              updatedAt: "2024-02-22T07:54:37Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "qUZyx_a4IzzZSWXpOLnaruSW2uk",
+      id: "UgyuJzTzI-Gdi28TzGZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "stjb_Vdo7ufYyXNThocTGTBL0Ww",
+          id: "UgyuJzTzI-Gdi28TzGZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Those idiots on jan 6th thought they was in a civil war 😂",
+            textOriginal:
+              "Those idiots on jan 6th thought they was in a civil war 😂",
+            authorDisplayName: "@darnellcalbert2563",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSS_gsgXCOWuJnyhFLjw2WQ0IAv-IN7M39NOw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@darnellcalbert2563",
+            authorChannelId: {
+              value: "UCklozt30fOTGMam5CZCEH9A",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:43:58Z",
+            updatedAt: "2024-02-22T07:43:58Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "1bjTP-zsAtTGWubBmtR8qPJ-E-s",
+      id: "UgwumeDosU5d5ej1E894AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "T4Tb0ZGGhb9KImMnB_VKfC7wmWI",
+          id: "UgwumeDosU5d5ej1E894AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "What I&#39;m most curious about is; In this situation, what will China, Russia, Iran and North Korea be doing?",
+            textOriginal:
+              "What I'm most curious about is; In this situation, what will China, Russia, Iran and North Korea be doing?",
+            authorDisplayName: "@selinozgur",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRaLBhczg1wrj3lvVPRvKLBeUcJKo13PKeDkl1Vwg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@selinozgur",
+            authorChannelId: {
+              value: "UCg3Giwaz7gR0jCsUzDS3jyA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:43:45Z",
+            updatedAt: "2024-02-22T07:43:45Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "iVny7-5g9szuI9mBpE_VMm4pJNU",
+            id: "UgwumeDosU5d5ej1E894AaABAg.A06_kzfPu04A06aHLXMYZv",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "Enjoying all the world&#39;s popcorn.",
+              textOriginal: "Enjoying all the world's popcorn.",
+              parentId: "UgwumeDosU5d5ej1E894AaABAg",
+              authorDisplayName: "@seanedwards6169",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQMnilp50iZhaw1uhrYUDSXXA8y8PPQY5nqWA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@seanedwards6169",
+              authorChannelId: {
+                value: "UCQcSNzqm4p8GdDE9zeglRSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T07:48:19Z",
+              updatedAt: "2024-02-22T07:48:19Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "tHgwyvMRTHGmV4MlTQaHh27TQEc",
+      id: "UgwNGBjHTud0yg9fFsZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "91eo_eNdXM_sTv1jaeNMvEPvj6M",
+          id: "UgwNGBjHTud0yg9fFsZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "What a waste of money",
+            textOriginal: "What a waste of money",
+            authorDisplayName: "@stakpaper2086",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/XnIsgYxUHS3PecyAmMMGef4im-YtTnpJtKVP3Du5uzwGyNXD4t4N3-p8k_IBNfBwyRTe6gRDXA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@stakpaper2086",
+            authorChannelId: {
+              value: "UCw-g7Y1bQdtF9lZl9hQiLKg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:41:24Z",
+            updatedAt: "2024-02-22T07:41:24Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "w_ZqWLza113-Z7R6zzUDG6midOA",
+      id: "UgyOJjQf1arBet3EF9x4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "n353e8XmgNwFV9UGOC6dNo9bqg8",
+          id: "UgyOJjQf1arBet3EF9x4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "One side is guns for hire and the other side patriots.",
+            textOriginal:
+              "One side is guns for hire and the other side patriots.",
+            authorDisplayName: "@jonobel498",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ASzG89RPp7Ul2F_1szHZxF4OGtcxGp-y8yAk6voMKKfqfLe0ya1vRZXshuRN06cGKdPcAcT3uQ=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@jonobel498",
+            authorChannelId: {
+              value: "UCPteNyhkKSpZlUs7D-EcnWw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:40:26Z",
+            updatedAt: "2024-02-22T07:40:26Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "lb1FOGPweYnInoYTyvzqUDBlfp4",
+      id: "Ugzs8FcX-sxQtp-x5sp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "TqQec5p-Kvt4Lm6oxRh0M2xtb10",
+          id: "Ugzs8FcX-sxQtp-x5sp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "This is exactly what the Democratic party is trying to start in our country.",
+            textOriginal:
+              "This is exactly what the Democratic party is trying to start in our country.",
+            authorDisplayName: "@stevengarza8383",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSwyUqnNGzMBuHAAFeY-0QMt1-5X6Sl6qn3AA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@stevengarza8383",
+            authorChannelId: {
+              value: "UCmXm0CmPKTEAGhHBGKxNiXQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T07:40:19Z",
+            updatedAt: "2024-02-22T07:40:19Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "YgRIpoUlb-yDayazy1HFJyY_DZk",
+      id: "Ugw-VX6P-7kOoJg6PtV4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "mE2uOBSpereM8F6lgqzqnv6YI9k",
+          id: "Ugw-VX6P-7kOoJg6PtV4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Where is Iron Man and Captain America?",
+            textOriginal: "Where is Iron Man and Captain America?",
+            authorDisplayName: "@Wolf10777",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/vT36O7QlcqD8BWf7jTzBVIGayZyCgB6FDgzRy2ZBsKk1p81aIMu5ov3K909almJaZ_k47pYx=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@Wolf10777",
+            authorChannelId: {
+              value: "UCqj-59fE_RfgwidC2JOJk5A",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:33:56Z",
+            updatedAt: "2024-02-22T07:33:56Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "vFsKy8cC10acMdliQzkvsFtgW18",
+      id: "UgwCLn6fjj0FATeMQcZ4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "CIWm7xpSlR5pRYlDKTYaXGky_AQ",
+          id: "UgwCLn6fjj0FATeMQcZ4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Republicans &amp; Democrats.. 2 extreme versions of society.. One messes up, the other fixes &amp; vice versa..<br><br>Hate.. But not so much<br>Love.. But don&#39;t go blind<br>Protect.. But stop after a point..<br>Correct.. But not all the time<br>Over-possessive.. It&#39;s justtoo much<br><br>Open your eyes coz moderation &amp; balance is the key to a healthy society.. America is a wonderful country, stop hating it &amp; appreciate the privileges. <br><br>Cheers to the good life..",
+            textOriginal:
+              "Republicans & Democrats.. 2 extreme versions of society.. One messes up, the other fixes & vice versa..\n\nHate.. But not so much\nLove.. But don't go blind\nProtect.. But stop after a point..\nCorrect.. But not all the time\nOver-possessive.. It's justtoo much\n\nOpen your eyes coz moderation & balance is the key to a healthy society.. America is a wonderful country, stop hating it & appreciate the privileges. \n\nCheers to the good life..",
+            authorDisplayName: "@jassbrar408",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSNG78gaKHixJffYIcqNHTz2f3IgLiBC4hl2mILuA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@jassbrar408",
+            authorChannelId: {
+              value: "UCaRDPi5wC78ZocpaEO258ow",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:29:55Z",
+            updatedAt: "2024-02-22T07:29:55Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "w_uQqnTgrH5wK6qZnH2KRev0Rn4",
+      id: "UgzcZY67ka9Zg_HP74t4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "1iMf_YNQ9tZs-Qp_QPajICuK64w",
+          id: "UgzcZY67ka9Zg_HP74t4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "If this didn&#39;t happen in Africa or Asia it never going to happen in the USA. Time has changed...keep dreaming civil war cowboys",
+            textOriginal:
+              "If this didn't happen in Africa or Asia it never going to happen in the USA. Time has changed...keep dreaming civil war cowboys",
+            authorDisplayName: "@kp5518",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQdW5soAJbWzAe1txZwrN1_Qt4SutS-q_uV2Q=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@kp5518",
+            authorChannelId: {
+              value: "UCU38aoVGPxrNrLqS2IgW6NA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:22:25Z",
+            updatedAt: "2024-02-22T07:26:00Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "ffURXuoX4UH4WJ3NPjgpPVj38jU",
+            id: "UgzcZY67ka9Zg_HP74t4AaABAg.A06YJkGUfpaA06ae8xdi23",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "Are you high? Civil wars have been going on all over the world forever. There&#39;s probably like 30 of them going on right now in Africa.",
+              textOriginal:
+                "Are you high? Civil wars have been going on all over the world forever. There's probably like 30 of them going on right now in Africa.",
+              parentId: "UgzcZY67ka9Zg_HP74t4AaABAg",
+              authorDisplayName: "@seanedwards6169",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQMnilp50iZhaw1uhrYUDSXXA8y8PPQY5nqWA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@seanedwards6169",
+              authorChannelId: {
+                value: "UCQcSNzqm4p8GdDE9zeglRSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T07:51:33Z",
+              updatedAt: "2024-02-22T07:51:33Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "e6jp29jC2DS_mPrKNTMFZH-7la8",
+      id: "UgyfrXUrkHe2LVd_SvR4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "3gsX39FibpyeSG_Ajjx0WV1BVJE",
+          id: "UgyfrXUrkHe2LVd_SvR4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "If civil war ever happens, it’ll probably be bigger than a lot of wars considering how armed a regular citizen is on top of the military.",
+            textOriginal:
+              "If civil war ever happens, it’ll probably be bigger than a lot of wars considering how armed a regular citizen is on top of the military.",
+            authorDisplayName: "@playertwoeightfourninezero4236",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/fFFww9Symuqc9BIJzl_rpjH8JPHDjSihDWyh83cKnvB4arasfrU4F4Dl4BX-1x2kidG35iGL_IY=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl:
+              "http://www.youtube.com/@playertwoeightfourninezero4236",
+            authorChannelId: {
+              value: "UClrWYdiemfocDbKoUxU1uLA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T07:21:27Z",
+            updatedAt: "2024-02-22T07:21:27Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
     {
       kind: "youtube#commentThread",
       etag: "tBuZob6ZWoPJq_NdU-vfafEqV80",
@@ -9000,7 +11679,7 @@ export const COMMENTS_DATA_FROM_YOUTUBE = {
     },
     {
       kind: "youtube#commentThread",
-      etag: "HsHxCYmQcGljZK80slaR8G4lBp8",
+      etag: "HHpMG_-5qnrRqbJ_FFNsD1PPQnU",
       id: "UgzTubb19QeYQ1FPTed4AaABAg",
       snippet: {
         channelId: "UCuPivVjnfNo4mb3Oog_frZg",
@@ -9031,8 +11710,36 @@ export const COMMENTS_DATA_FROM_YOUTUBE = {
           },
         },
         canReply: true,
-        totalReplyCount: 0,
+        totalReplyCount: 1,
         isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "7tbM8GqbtiZCFIuaKdyRVBqW0LI",
+            id: "UgzTubb19QeYQ1FPTed4AaABAg.A06RQllCWF8A06aqCjtisw",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay: "Now you want to go see it to find out.",
+              textOriginal: "Now you want to go see it to find out.",
+              parentId: "UgzTubb19QeYQ1FPTed4AaABAg",
+              authorDisplayName: "@seanedwards6169",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQMnilp50iZhaw1uhrYUDSXXA8y8PPQY5nqWA=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@seanedwards6169",
+              authorChannelId: {
+                value: "UCQcSNzqm4p8GdDE9zeglRSA",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T07:53:12Z",
+              updatedAt: "2024-02-22T07:53:12Z",
+            },
+          },
+        ],
       },
     },
     {
@@ -9340,6 +12047,578 @@ export const COMMENTS_DATA_FROM_YOUTUBE = {
             },
           },
         ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "4N0pfv--1VMuZT9x58e7qCJnJtE",
+      id: "UgypU2UZRlVAwj9q4HR4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "4xAGb6GxjWZzmon-Kf1d88EPU4A",
+          id: "UgypU2UZRlVAwj9q4HR4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Cool Marvel movie!",
+            textOriginal: "Cool Marvel movie!",
+            authorDisplayName: "@nickmarvell1245",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQKOqP2WwkHhq-WzuKoUbfDalTWRVfqGnCtPKqKDIZpPMWVt_5dXvZDjEYamL-Z=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@nickmarvell1245",
+            authorChannelId: {
+              value: "UCBT_XiYZzEZ8mvz5RH6t3AA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T05:22:10Z",
+            updatedAt: "2024-02-22T05:22:10Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "rP-PHROjtEF6mvMpicHYKx-WG4I",
+      id: "UgzXRgHlLz3YwvjNOGV4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "dOrINjpEmZHI5MkIBzFl_r6Bt3A",
+          id: "UgzXRgHlLz3YwvjNOGV4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "&quot;Easy to be a soldier when there ain&#39;t no war.&quot; There are citizens of this nation that are standing by waiting. Just because you served and saw combat, doesn&#39;t mean you don&#39;t have brothers back home that would love to train &amp; exercise with you. We&#39;re not the enemy. We are Americans! You have families here like i have families here.",
+            textOriginal:
+              "\"Easy to be a soldier when there ain't no war.\" There are citizens of this nation that are standing by waiting. Just because you served and saw combat, doesn't mean you don't have brothers back home that would love to train & exercise with you. We're not the enemy. We are Americans! You have families here like i have families here.",
+            authorDisplayName: "@davidsolis3266",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZT-8yrm0fNxkcij2IclmA6rQRFmmtqJTPMqtw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@davidsolis3266",
+            authorChannelId: {
+              value: "UCmbCQ1jfEaL7779qFgq_Mvw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T05:06:26Z",
+            updatedAt: "2024-02-22T05:06:26Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 1,
+        isPublic: true,
+      },
+      replies: {
+        comments: [
+          {
+            kind: "youtube#comment",
+            etag: "IZZ9QmCrERmIVxNXIDn8sBXeVJs",
+            id: "UgzXRgHlLz3YwvjNOGV4AaABAg.A06IkjGCjuKA06M7FIvRTo",
+            snippet: {
+              channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+              videoId: "cA4wVhs3HC0",
+              textDisplay:
+                "Pfft. I didn&#39;t ask to be born here and pay taxes.",
+              textOriginal: "Pfft. I didn't ask to be born here and pay taxes.",
+              parentId: "UgzXRgHlLz3YwvjNOGV4AaABAg",
+              authorDisplayName: "@clottadams5028",
+              authorProfileImageUrl:
+                "https://yt3.ggpht.com/ytc/AIf8zZQAPEC5rY-y1Z3LjVKAo2e0m53CPGR2rzn-qVUX2SIyR39aXX7I7aD8__xI5n3S=s48-c-k-c0x00ffffff-no-rj",
+              authorChannelUrl: "http://www.youtube.com/@clottadams5028",
+              authorChannelId: {
+                value: "UCATo7RiziD3avOo8E24rGMw",
+              },
+              canRate: true,
+              viewerRating: "none",
+              likeCount: 0,
+              publishedAt: "2024-02-22T05:35:51Z",
+              updatedAt: "2024-02-22T05:35:51Z",
+            },
+          },
+        ],
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "5SddzhPGqz9nZOFU-e7DF2_cE78",
+      id: "Ugz-DsMJBxCsLBHhsgR4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "NJAyxKEK7X9-OCOegLFFkInP4Hw",
+          id: "Ugz-DsMJBxCsLBHhsgR4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "This looks bad",
+            textOriginal: "This looks bad",
+            authorDisplayName: "@user-MIKETV",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTKHrfXbl1DNNfQyEDJ2WsM0gyoVH3tWyEGxfND_IAPRTOVSyx1LjmtJa8BNzQ0=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@user-MIKETV",
+            authorChannelId: {
+              value: "UCPrl3-99PxjvETSlbzKBNiQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:56:34Z",
+            updatedAt: "2024-02-22T04:56:34Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "atZndfd4xgna5sTmw2okX8E1Ktk",
+      id: "UgwIJE8HYvepWs6ZHKB4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "KxyITi_A6UkVbekTG2NuAa7xnrE",
+          id: "UgwIJE8HYvepWs6ZHKB4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "How cool would it be if a real Civil War breaks out the same day as &quot;Civil War&quot; hits theaters?",
+            textOriginal:
+              'How cool would it be if a real Civil War breaks out the same day as "Civil War" hits theaters?',
+            authorDisplayName: "@clottadams5028",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQAPEC5rY-y1Z3LjVKAo2e0m53CPGR2rzn-qVUX2SIyR39aXX7I7aD8__xI5n3S=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@clottadams5028",
+            authorChannelId: {
+              value: "UCATo7RiziD3avOo8E24rGMw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:54:42Z",
+            updatedAt: "2024-02-22T04:55:07Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "EDQToBE7u8PiCI4IAmNY-7Y32YM",
+      id: "UgwQ_Vk9AfSdjzNCuIR4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "F6vHNif410XlPZ9Mx01P9TrghUo",
+          id: "UgwQ_Vk9AfSdjzNCuIR4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "TEXAS-CALIFORNIA. Many in here make fun of  it as sci-fi or script bs. How about...nope? Think about it:<br>TEXAS = OIL<br>CALIFORNIA = (Military)-Entertainment Complex (Hollywood Complex)<br>Where the money is gathered...",
+            textOriginal:
+              "TEXAS-CALIFORNIA. Many in here make fun of  it as sci-fi or script bs. How about...nope? Think about it:\nTEXAS = OIL\nCALIFORNIA = (Military)-Entertainment Complex (Hollywood Complex)\nWhere the money is gathered...",
+            authorDisplayName: "@PsychotronicWar",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSQlquHeUP4JFtIOI_i_GewEV_-rbuiaCWrAaXWT2g=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@PsychotronicWar",
+            authorChannelId: {
+              value: "UCfZZmVfW_6NrZLfJpBXPdvQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T04:44:17Z",
+            updatedAt: "2024-02-22T04:44:46Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "AHmgoukpgHfinX8JcvEu72huUjQ",
+      id: "UgzLlPuEzhDMYpWZ6Xt4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "g5PQY_HuzF-yMlCCFPafGssL0Mk",
+          id: "UgzLlPuEzhDMYpWZ6Xt4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "I’m a born and raised Texan<br>California can kick rocks",
+            textOriginal:
+              "I’m a born and raised Texan\nCalifornia can kick rocks",
+            authorDisplayName: "@johnrodriguez6480",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTPRxrQIgUYLy_7z-cJakPAfw2UyaFhINoZdg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@johnrodriguez6480",
+            authorChannelId: {
+              value: "UCm2cAMRBJN6F3HdMtl2jl7Q",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T04:24:46Z",
+            updatedAt: "2024-02-22T04:24:46Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "hl_UVyIrXpF177D1ooKSmWRuWE8",
+      id: "UgwmalzteI43JXe7xGl4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "Ujf4XZxlzCOmU3A25mMwQ2kYCB4",
+          id: "UgwmalzteI43JXe7xGl4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Meh,",
+            textOriginal: "Meh,",
+            authorDisplayName: "@williamnewton4759",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/3dzq59OnqTLrvEWI3IRaBCgCSB75UP8pv4eZbMrYMBvhKj3npd-iNIpw9h3lQgfF-9gCITYP=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@williamnewton4759",
+            authorChannelId: {
+              value: "UCVNo0ZdxPnM_CzHgiSuG8Aw",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:17:04Z",
+            updatedAt: "2024-02-22T04:17:04Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "4kY74LS6EfC9zXxSZaATws2ZNrw",
+      id: "UgwkXRU61QekTvPkUwN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "r2eWxpi69VYo6KPH2VGGr345MGk",
+          id: "UgwkXRU61QekTvPkUwN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "Why watch this in theaters when I can watch it live in real live",
+            textOriginal:
+              "Why watch this in theaters when I can watch it live in real live",
+            authorDisplayName: "@beachbumLifestyle",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZT9WFWJNq0zqMVq_fyahiDxB6AYVSqo_U-g0kOSOg=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@beachbumLifestyle",
+            authorChannelId: {
+              value: "UCxAjISwQQC0ogtzUGeVlY-A",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 9,
+            publishedAt: "2024-02-22T04:08:47Z",
+            updatedAt: "2024-02-22T04:08:47Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "A7NJamta_-l8sEhKt9y5vmFJ8HY",
+      id: "Ugxovide9K2U4B4CAIh4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "T71whUJ68Jlg5MMQxQ-IPYJSWpU",
+          id: "Ugxovide9K2U4B4CAIh4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "It makes sense now. The &quot;good food&quot; states are seceding.",
+            textOriginal:
+              'It makes sense now. The "good food" states are seceding.',
+            authorDisplayName: "@user-sw4wk3op9f",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZTVfWp84nKpi2nRIcPK6OXpJuvq1QXnDcVg3ldfzvchYIK8p9IE5HqYK_TtKc7j=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@user-sw4wk3op9f",
+            authorChannelId: {
+              value: "UCjpAQ5Ubm2BfeyiYOEG6x7A",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:08:37Z",
+            updatedAt: "2024-02-22T04:08:37Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "Lgsll_tIFMvqUBBo7RodxuBCRfU",
+      id: "UgzwjpXw-sRPbeymKg54AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "z-8gkeKzOKwRZdQ6tSeXGFtp9k4",
+          id: "UgzwjpXw-sRPbeymKg54AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "looks awful",
+            textOriginal: "looks awful",
+            authorDisplayName: "@TwisterKidMedia",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZSn_ANEDslXfo9ktteeE1f8G9Wzm0fNVRthAgwH=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@TwisterKidMedia",
+            authorChannelId: {
+              value: "UCq27dawqVyhRYEsl2m-W4UQ",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:06:17Z",
+            updatedAt: "2024-02-22T04:06:17Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "8VSpXc5ChDPVGrBcyRPpy7QiU2Y",
+      id: "Ugx2KgodtDjkYPtAyId4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "_HW9DWrVvnjyChkdqhy-W4YjXHI",
+          id: "Ugx2KgodtDjkYPtAyId4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "Real change can only be paid for by blood",
+            textOriginal: "Real change can only be paid for by blood",
+            authorDisplayName: "@billybillee8160",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZR3uiD4bIdTMiEWkt_4ZdbliL6L1Vq9eBdoxA=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@billybillee8160",
+            authorChannelId: {
+              value: "UCqJBhlyDyqr6D1ROljZzy7g",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 1,
+            publishedAt: "2024-02-22T04:04:57Z",
+            updatedAt: "2024-02-22T04:04:57Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "WUyd_kF-YBjTuWxJVCEIQltkuog",
+      id: "UgzA2DMTeFzYM2VCLSN4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "vysjKSuL73FKvkvK7eBdCMAW2oo",
+          id: "UgzA2DMTeFzYM2VCLSN4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "The side that has Russia/China support will win by a landslide",
+            textOriginal:
+              "The side that has Russia/China support will win by a landslide",
+            authorDisplayName: "@clarkkids3574",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZQJsBF6JWhIqutxJy0YooCHAsSJRA91IQV4tJLE=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@clarkkids3574",
+            authorChannelId: {
+              value: "UCO1xhAOJ5aHcyg_OToj6-vA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:04:30Z",
+            updatedAt: "2024-02-22T04:04:30Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "BO6oYfxlXTZsn99xAj4CAqfRL9A",
+      id: "Ugw-rpRAGfeDR2fB-7p4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "gK77O5_b_HMNzY3B0a3Ok3V7DxE",
+          id: "Ugw-rpRAGfeDR2fB-7p4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "It would break my heart if something like this happened in our world",
+            textOriginal:
+              "It would break my heart if something like this happened in our world",
+            authorDisplayName: "@biglunk5064",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/JE4L8NT1x8TJHGyEFE6XX94hZjLUZdacstPB7pf5JtILzuB3lbmj1Imc-AyjxHbmAIrKe74S=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@biglunk5064",
+            authorChannelId: {
+              value: "UC7Sncare8tBU5H8YxYy9sDA",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T04:00:03Z",
+            updatedAt: "2024-02-22T04:00:03Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "zFrcNTbd0ZN-zhwLcDpU1kqW3Qg",
+      id: "UgyV9oYM4Mxr_XyqrNp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "BrP1PEAtx3cMiBReGywqPxGBFx0",
+          id: "UgyV9oYM4Mxr_XyqrNp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay:
+              "True science fiction is imagining an alliance between Texas and California.",
+            textOriginal:
+              "True science fiction is imagining an alliance between Texas and California.",
+            authorDisplayName: "@teresa-wants-you",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/lMMiE8II0UM7-kn4t7IDSLiMhNZXrCD4cdl10SAUJZgNtvfF4ANOyd6KRQc-lgHkeNOQh04q=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@teresa-wants-you",
+            authorChannelId: {
+              value: "UCV3EapKrqnEd5xJgdgB_Cww",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 37,
+            publishedAt: "2024-02-22T03:56:19Z",
+            updatedAt: "2024-02-22T03:56:19Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
+      },
+    },
+    {
+      kind: "youtube#commentThread",
+      etag: "0Ok6afa_HMmGJulX5GsGXxUGAX4",
+      id: "Ugz01MaRnlXZLC_kjOp4AaABAg",
+      snippet: {
+        channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+        videoId: "cA4wVhs3HC0",
+        topLevelComment: {
+          kind: "youtube#comment",
+          etag: "O2D85ddHYTustUdaDQEbgiYlEt0",
+          id: "Ugz01MaRnlXZLC_kjOp4AaABAg",
+          snippet: {
+            channelId: "UCuPivVjnfNo4mb3Oog_frZg",
+            videoId: "cA4wVhs3HC0",
+            textDisplay: "I don’t like this.",
+            textOriginal: "I don’t like this.",
+            authorDisplayName: "@ggbutterfly4",
+            authorProfileImageUrl:
+              "https://yt3.ggpht.com/ytc/AIf8zZRlV_zPhiC0At20GZAo6yHEz7JoOpxFcECtvzAOMECQWDCnEJQxS7lo1dtP4pf_Lw=s48-c-k-c0x00ffffff-no-rj",
+            authorChannelUrl: "http://www.youtube.com/@ggbutterfly4",
+            authorChannelId: {
+              value: "UCSQ4uYvX38715sddNJVPKmg",
+            },
+            canRate: true,
+            viewerRating: "none",
+            likeCount: 0,
+            publishedAt: "2024-02-22T03:44:36Z",
+            updatedAt: "2024-02-22T03:44:36Z",
+          },
+        },
+        canReply: true,
+        totalReplyCount: 0,
+        isPublic: true,
       },
     },
   ],

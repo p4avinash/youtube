@@ -15,7 +15,7 @@ const CommentReplies = ({ reply }) => {
     <div>
       <div className='comments-detail mb-4 ml-20 flex p-4 rounded-lg'>
         <img
-          className='rounded-full w-[40px] h-[40px] mr-6'
+          className='rounded-full w-[30px] h-[30px] mr-6'
           src={`${
             authorProfileImageUrl
               ? authorProfileImageUrl

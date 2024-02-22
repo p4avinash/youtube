@@ -14,7 +14,7 @@ const WatchPage = () => {
   // const getVideoComments = async () => {
   //   try {
   //     const response = await fetch(
-  //       `https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet%2Creplies&videoId=${videoId}&key=${GOOGLE_API_KEY}`
+  //       `https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet%2Creplies&maxResults=100&videoId=${videoId}&key=${GOOGLE_API_KEY}`
   //     )
 
   //     const commentsData = await response.json()

@@ -22,7 +22,7 @@ const SingleComment = ({ comment }) => {
     <div className=''>
       <div className='comments-detail mb-4 flex p-4 rounded-lg'>
         <img
-          className='rounded-full w-[50px] h-[50px] mr-6'
+          className='rounded-full w-[40px] h-[40px] mr-6'
           src={`${
             authorProfileImageUrl
               ? authorProfileImageUrl
@@ -31,8 +31,8 @@ const SingleComment = ({ comment }) => {
           alt='profile'
         ></img>
         <div className=' '>
-          <p>{authorDisplayName}</p>
-          <p>{textOriginal}</p>
+          <p className='font-semibold text-sm'>{authorDisplayName}</p>
+          <p className='text-md'>{textOriginal}</p>
         </div>
       </div>
       <div className='replies'>
