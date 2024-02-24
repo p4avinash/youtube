@@ -37,7 +37,7 @@ const LiveChat = () => {
       }
 
       const { authorProfileImageUrl, textOriginal, authorDisplayName } =
-        dummyChatData[chatIndex].snippet.topLevelComment.snippet
+        dummyChatData[chatIndex]?.snippet?.topLevelComment?.snippet
 
       //API Polling
 

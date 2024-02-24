@@ -8,6 +8,7 @@ const Head = () => {
   const [searchQuery, setSearchQuery] = useState("")
   const [searchSuggestions, setSearchSuggestions] = useState([])
   const [searchBoxFocus, setSearchboxFocus] = useState(false)
+  const [checkHover, setCheckHover] = useState(false)
 
   const searchBox = useRef("")
   const cachedSearchResult = useSelector((store) => store.search)
@@ -15,11 +16,19 @@ const Head = () => {
 
   const handleSetSearchQuery = (e) => {
     setSearchboxFocus(true)
-    searchBox.current.addEventListener("blur", () => {
-      setSearchboxFocus(false)
-    })
     setSearchQuery(e.target.value)
-    return () => searchBox.current.removeEventListener("blur")
+  }
+
+  const handleSearchFunctionality = (e) => {
+    searchBox.current.value = e.target.textContent
+    setSearchboxFocus(false)
+  }
+
+  const handleBlurEvent = (e) => {
+    const timeout = setTimeout(() => {
+      setSearchboxFocus(false)
+    }, 200)
+    return () => clearTimeout(timeout)
   }
 
   const getSearchSuggestion = async () => {
@@ -99,6 +108,8 @@ const Head = () => {
           type='text'
           placeholder='Search'
           className=' rounded-l-full pl-4 w-3/6 border border-gray-300 focus:border-blue-500 duration-300 outline-none'
+          onBlur={(e) => handleBlurEvent(e)}
+          onFocus={() => setSearchboxFocus(true)}
         />
         <svg
           className='w-[80px] hover:bg-slate-100 flex h-11 duration-300 rounded-r-full cursor-pointer p-1 border border-l-0 border-gray-300'
@@ -123,6 +134,7 @@ const Head = () => {
             {searchSuggestions.map((keyword, index) => {
               return (
                 <div
+                  onClick={(e) => handleSearchFunctionality(e)}
                   key={index}
                   className='flex items-center hover:bg-gray-300 rounded-xl px-4 '
                 >
