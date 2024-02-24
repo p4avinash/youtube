@@ -55,8 +55,15 @@ const LiveChat = () => {
   }, [])
 
   return (
-    <div className='flex flex-col border border-gray-300 rounded-xl ml-4 h-[60vh]'>
-      <div className=' p-2 flex flex-col-reverse rounded-lg overflow-y-scroll   bg-gray-50'>
+    <div className='flex  flex-col-reverse border border-gray-300 rounded-xl ml-4 h-[60vh]'>
+      <input
+        type='text'
+        className='p-2 pl-4 rounded-3xl outline-none mx-4 mb-2 bg-gray-200'
+        placeholder='Chat...'
+        onKeyUp={(e) => handleComment(e)}
+      />
+      <hr className='my-2 ' />
+      <div className=' p-2 flex flex-col-reverse rounded-lg overflow-y-scroll bg-gray-50'>
         {liveMessages.map((chat, index) => {
           return (
             <ChatMessage
@@ -68,13 +75,6 @@ const LiveChat = () => {
           )
         })}
       </div>
-      <hr className='my-2 ' />
-      <input
-        type='text'
-        className='p-2 pl-4 rounded-3xl outline-none mx-4 mb-2 bg-gray-200'
-        placeholder='Chat...'
-        onKeyUp={(e) => handleComment(e)}
-      />
     </div>
   )
 }
