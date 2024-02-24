@@ -6,7 +6,7 @@ const Sidebar = () => {
   const toggleMenu = useSelector((store) => store.app.isMenuOpen)
   return (
     <div className=''>
-      <div className='mr-10 sticky top-20 mt-18'>
+      <div className='mr-10 sticky top-20 mt-18 bg-white'>
         {toggleMenu ? (
           <div className='p-5  w-48 cursor-pointer'>
             <div className=' mb-2 flex flex-col text-md'>

@@ -14,7 +14,9 @@ const CommentsRepliesList = ({ replies }) => {
       </p>
       {replies.comments.map((reply) => {
         if (reply) {
-          return showReplies ? <CommentReplies reply={reply} /> : null
+          return showReplies ? (
+            <CommentReplies key={reply.id} reply={reply} />
+          ) : null
         }
       })}
     </div>

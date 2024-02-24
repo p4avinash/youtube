@@ -46,7 +46,6 @@ const Head = () => {
     const timer = setTimeout(() => {
       if (searchQuery in cachedSearchResult) {
         setSearchSuggestions(cachedSearchResult[searchQuery])
-        console.log("data updated from cache")
       } else {
         getSearchSuggestion()
       }
@@ -56,7 +55,7 @@ const Head = () => {
   }, [searchQuery])
 
   return (
-    <div className='grid grid-flow-col p-4 mt-2 shadow-lg ease-in-out sticky top-0 bg-white'>
+    <div className='grid grid-flow-col p-4 mt-2 shadow-lg ease-in-out sticky top-0 bg-white z-10'>
       {/* first section */}
       <div className='flex col-span-1 items-center'>
         <svg
@@ -88,7 +87,7 @@ const Head = () => {
             <path fill='#FFF' d='M20 31L20 17 32 24z'></path>
           </svg>
 
-          <p className='text-2xl font-semibold cursor-pointer'>Youtube</p>
+          <p className='text-2xl font-semibold cursor-pointer'>YouTube</p>
         </a>
       </div>
 

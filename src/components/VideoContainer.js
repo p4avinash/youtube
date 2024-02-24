@@ -28,14 +28,15 @@ const VideoContainer = () => {
   //   try {
   //     const response = await fetch(YOUTUBE_VIDEO_API)
   //     const data = await response.json()
-  //     console.log(data)
+  //     console.log(data?.items)
+  //     setVideos(data?.items)
   //   } catch (error) {
   //     console.log(error)
   //   }
   // }
-
+  // sm:grid sm:grid-flow-row sm:grid-rows-1 lg:flex justify-start flex-wrap m-2 p-2
   return (
-    <div className='sm:grid sm:grid-flow-row sm:grid-rows-1 lg:flex justify-start flex-wrap m-2 p-2 '>
+    <div className='flex flex-wrap'>
       {videos.map((video, index) => {
         return (
           <Link to={`/watch?v=${video.id}`} key={video.id}>
