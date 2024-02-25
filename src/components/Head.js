@@ -3,12 +3,14 @@ import { useDispatch, useSelector } from "react-redux"
 import { toggleMenu } from "../utils/slices/appSlice"
 import { SEARCH_SUGGESTION_URL } from "../utils/constant"
 import { cachedSearchSuggestions } from "../utils/slices/searchSlice"
+import { videoData } from "../utils/slices/videoSlice"
 
 const Head = () => {
   const [searchQuery, setSearchQuery] = useState("")
   const [searchSuggestions, setSearchSuggestions] = useState([])
   const [searchBoxFocus, setSearchboxFocus] = useState(false)
-  const [checkHover, setCheckHover] = useState(false)
+  const [searchSuggestionQuery, setSearchSuggestionQuery] = useState("")
+  const GOOGLE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY
 
   const searchBox = useRef("")
   const cachedSearchResult = useSelector((store) => store.search)
@@ -19,8 +21,28 @@ const Head = () => {
     setSearchQuery(e.target.value)
   }
 
+  const handleClickOnSearchSuggestion = async () => {
+    try {
+      const response = await fetch(
+        `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${searchSuggestionQuery}&key=${GOOGLE_API_KEY}`
+      )
+      const data = await response.json()
+      console.log("data from clicking on search suggestions", data.items)
+      const videoDataFilter = data.items.filter((item) => item.id.videoId)
+      console.log("videoDataFilter", videoDataFilter)
+      dispatch(videoData(videoDataFilter))
+    } catch (error) {
+      console.log(error)
+    }
+  }
+
+  const handleSearchButtonClick = () => {
+    setSearchSuggestionQuery(searchBox.current.value)
+  }
+
   const handleSearchFunctionality = (e) => {
     searchBox.current.value = e.target.textContent
+    setSearchSuggestionQuery(searchBox.current.value)
     setSearchboxFocus(false)
   }
 
@@ -50,6 +72,12 @@ const Head = () => {
       console.log(error)
     }
   }
+
+  useEffect(() => {
+    if (searchSuggestionQuery.length > 0) {
+      handleClickOnSearchSuggestion()
+    }
+  }, [searchSuggestionQuery])
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -112,6 +140,7 @@ const Head = () => {
           onFocus={() => setSearchboxFocus(true)}
         />
         <svg
+          onClick={() => handleSearchButtonClick()}
           className='w-[80px] hover:bg-slate-100 flex h-11 duration-300 rounded-r-full cursor-pointer p-1 border border-l-0 border-gray-300'
           xmlns='http://www.w3.org/2000/svg'
           x='0px'

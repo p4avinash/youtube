@@ -1,4 +1,6 @@
-export const GOOGLE_API_KEY = ``
+// export const GOOGLE_API_KEY = `AIzaSyC7cN41mWdLUO2cQqt6JSISy5Fpq5M_J6Q`
+
+const GOOGLE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY
 
 export const SEARCH_SUGGESTION_URL =
   "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="
@@ -14,6 +16,8 @@ export const LIVE_CHAT_COUNT_OFFSET = 99
 export const YOUTUBE_VIDEO_API = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=${GOOGLE_API_KEY}`
 
 //youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=surfing&key=[YOUR_API_KEY]
+
+// https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=surfing&key=[YOUR_API_KEY]
 
 export const DATA_FROM_YOUTUBE = {
   kind: "youtube#videoListResponse",

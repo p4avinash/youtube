@@ -8,11 +8,11 @@ const LiveChat = () => {
   const [dummyChatData, setDummyChatData] = useState(
     COMMENTS_DATA_FROM_YOUTUBE.items
   )
-
   const dispatch = useDispatch()
   const liveMessages = useSelector((store) => store.chat.messages)
   const intervalTime = 2000
   let chatIndex = 0
+  const chatDataFromRedux = useSelector((store) => store.comment.comments)
 
   const handleComment = (e) => {
     if (e.keyCode === 13) {
@@ -29,24 +29,32 @@ const LiveChat = () => {
   }
 
   useEffect(() => {
+    console.log("first useEffect")
+    setDummyChatData(chatDataFromRedux)
+  }, [])
+
+  useEffect(() => {
+    console.log("second useEffect")
+
     const interval = setInterval(() => {
-      if (chatIndex >= dummyChatData.length) {
+      if (chatIndex >= dummyChatData?.length) {
         chatIndex = 0
       } else {
         chatIndex += 1
       }
 
-      const { authorProfileImageUrl, textOriginal, authorDisplayName } =
-        dummyChatData[chatIndex]?.snippet?.topLevelComment?.snippet
-
       //API Polling
-
       dispatch(
         appendMessage({
-          id: dummyChatData[chatIndex].id,
-          profile: authorProfileImageUrl,
-          name: authorDisplayName,
-          message: textOriginal,
+          id: dummyChatData[chatIndex]?.id,
+          profile:
+            dummyChatData[chatIndex]?.snippet?.topLevelComment?.snippet
+              ?.authorProfileImageUrl,
+          name: dummyChatData[chatIndex]?.snippet?.topLevelComment?.snippet
+            ?.authorDisplayName,
+          message:
+            dummyChatData[chatIndex]?.snippet?.topLevelComment?.snippet
+              ?.textOriginal,
         })
       )
     }, intervalTime)
