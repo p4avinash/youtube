@@ -1,5 +1,3 @@
-// export const GOOGLE_API_KEY = `AIzaSyC7cN41mWdLUO2cQqt6JSISy5Fpq5M_J6Q`
-
 const GOOGLE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY
 
 export const SEARCH_SUGGESTION_URL =
